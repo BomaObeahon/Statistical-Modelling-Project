@@ -1,0 +1,982 @@
+fsq_id,categories,closed_bucket,distance,location,name,latitude,longitude
+4ae0c7a8f964a520638221e3,Indian Restaurant,VeryLikelyOpen,783,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Udupi Palace,43.67205,-79.322451
+5859d15c1d21ba53f2f9b4ef,Bar,VeryLikelyOpen,809,"1471 Gerrard St E, Toronto ON M4L 2A1",Lake Inez,43.672346,-79.320804
+4c1169396e5dc9b61b10b02d,Burger Joint,VeryLikelyOpen,377,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Burger's Priest,43.666763,-79.315564
+4ad9ebdcf964a520e61b21e3,Diner,VeryLikelyOpen,129,"1483 Queen St E, Toronto ON M4L 1E2",Chick-N-Joy,43.665121,-79.321347
+54302333498ed6ec0533ab40,Egyptian Restaurant,VeryLikelyOpen,1001,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Maha's Fine Egyptian Cuisine,43.671682,-79.328462
+601ea2a0f21ba75f3fb7632f,Café,VeryLikelyOpen,522,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Omnia Coffee Roasters,43.66388,-79.326107
+4fd52f42e4b0b916eb02ab1b,Pizzeria,LikelyOpen,300,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",O Sushi,43.666623,-79.316861
+59172e0169e77b035cdbe7bd,Ice Cream Parlor,LikelyOpen,600,"1698 Queen St W, Scarborough ON M6R 1B3",Brett's Ice Cream,43.667418,-79.312824
+5cb8888dc0cacb002cf98062,Bistro,VeryLikelyOpen,880,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Le Conciliabule,43.671324,-79.32719
+4b942922f964a520f16b34e3,Fish and Chips Shop,LikelyOpen,439,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",British Style Fish & Chips,43.668614,-79.317268
+5a2a9708ccad6b57983d95e3,Indian Restaurant,VeryLikelyOpen,284,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Balzac's Coffee Roasters,43.67205,-79.322451
+5753753b498eeb535c53aed5,Bar,VeryLikelyOpen,581,"1471 Gerrard St E, Toronto ON M4L 2A1",The Greater Good Bar,43.672346,-79.320804
+4b5c7ad5f964a520df3129e3,Burger Joint,VeryLikelyOpen,603,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Tre Mari Bakery,43.666763,-79.315564
+572e0547498ed619e59df508,Diner,VeryLikelyOpen,729,"1483 Queen St E, Toronto ON M4L 1E2",Hale Coffee,43.665121,-79.321347
+5a5659ab17556229a036b74a,Egyptian Restaurant,VeryLikelyOpen,617,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Parallel,43.671682,-79.328462
+4b81a826f964a520c9b530e3,Café,VeryLikelyOpen,657,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Rio 40 Restaurant,43.66388,-79.326107
+4fef6339e4b0caa9ac6d011e,Pizzeria,VeryLikelyOpen,706,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",King's Tacos,43.666623,-79.316861
+4dd5dc2445ddced820612749,Ice Cream Parlor,VeryLikelyOpen,733,"1698 Queen St W, Scarborough ON M6R 1B3",Pizza e Pazzi,43.667418,-79.312824
+4bce35a1fb84c9b60272233e,Bistro,LikelyOpen,654,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Piri-Piri,43.671324,-79.32719
+4f14a5cbe4b072565fe420b4,Fish and Chips Shop,VeryLikelyOpen,674,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",California Sushi,43.668614,-79.317268
+4c1169396e5dc9b61b10b02d,Indian Restaurant,VeryLikelyOpen,180,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Burger's Priest,43.67205,-79.322451
+5859d15c1d21ba53f2f9b4ef,Bar,VeryLikelyOpen,740,"1471 Gerrard St E, Toronto ON M4L 2A1",Lake Inez,43.672346,-79.320804
+4fd52f42e4b0b916eb02ab1b,Burger Joint,LikelyOpen,100,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",O Sushi,43.666763,-79.315564
+4ae0c7a8f964a520638221e3,Diner,VeryLikelyOpen,751,"1483 Queen St E, Toronto ON M4L 1E2",Udupi Palace,43.665121,-79.321347
+59172e0169e77b035cdbe7bd,Egyptian Restaurant,LikelyOpen,406,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Brett's Ice Cream,43.671682,-79.328462
+4b942922f964a520f16b34e3,Café,LikelyOpen,281,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",British Style Fish & Chips,43.66388,-79.326107
+4ba0153bf964a520995837e3,Pizzeria,VeryLikelyOpen,205,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Casa Di Giorgios,43.666623,-79.316861
+5cb8888dc0cacb002cf98062,Ice Cream Parlor,VeryLikelyOpen,934,"1698 Queen St W, Scarborough ON M6R 1B3",Le Conciliabule,43.667418,-79.312824
+4ad9ebdcf964a520e61b21e3,Bistro,VeryLikelyOpen,319,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Chick-N-Joy,43.671324,-79.32719
+5c4228e1e17910002cd1a07e,Fish and Chips Shop,VeryLikelyOpen,727,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Glory Hole Doughnuts,43.668614,-79.317268
+574ad72238fa943556d93b8e,Indian Restaurant,VeryLikelyOpen,233,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Gyu-Kaku BBQ,43.67205,-79.322451
+506db1a9e4b0a3f3b31412f0,Bar,LikelyOpen,276,"1471 Gerrard St E, Toronto ON M4L 2A1",Richmond Station,43.672346,-79.320804
+4b49183ff964a520a46526e3,Burger Joint,VeryLikelyOpen,271,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Terroni,43.666763,-79.315564
+514627d1e4b0dba1b85e9ba8,Diner,VeryLikelyOpen,346,"1483 Queen St E, Toronto ON M4L 1E2",Dineen Coffee Co,43.665121,-79.321347
+506880f3e8893b5a347c4043,Egyptian Restaurant,VeryLikelyOpen,365,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Triple a Bar,43.671682,-79.328462
+4b5ca7d8f964a5207c3c29e3,Café,VeryLikelyOpen,426,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Beer Bistro,43.66388,-79.326107
+5615b6c4498e3c32c67ad78f,Pizzeria,VeryLikelyOpen,450,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Blaze Pizza,43.666623,-79.316861
+601d14d442fb60302fae8306,Ice Cream Parlor,VeryLikelyOpen,371,"1698 Queen St W, Scarborough ON M6R 1B3",CRAFT Beer Market Toronto,43.667418,-79.312824
+509e9ef6e4b0ab175389a6c5,Bistro,VeryLikelyOpen,362,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Hokkaido Ramen Santouka,43.671324,-79.32719
+4d306dd82748b60c62b6dba0,Fish and Chips Shop,VeryLikelyOpen,368,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Trattoria Mercatto,43.668614,-79.317268
+4b654efaf964a520aeec2ae3,Indian Restaurant,LikelyOpen,43,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Black Eagle,43.67205,-79.322451
+4ad88725f964a5200d1221e3,Bar,VeryLikelyOpen,74,"1471 Gerrard St E, Toronto ON M4L 2A1",Woody's,43.672346,-79.320804
+4ad887d2f964a520111221e3,Burger Joint,VeryLikelyOpen,111,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Hair of the Dog,43.666763,-79.315564
+4ab17387f964a520866920e3,Diner,LikelyOpen,101,"1483 Queen St E, Toronto ON M4L 1E2",Churchmouse & Firkin,43.665121,-79.321347
+4bb942a7cf2fc9b6596ca002,Egyptian Restaurant,VeryLikelyOpen,373,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",The Keg Steakhouse & Bar,43.671682,-79.328462
+4b2bd898f964a52042bc24e3,Café,VeryLikelyOpen,365,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Kinka Izakaya,43.66388,-79.326107
+51755dc7498ece19b7261641,Pizzeria,LikelyOpen,510,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Banh Mi Boys,43.666623,-79.316861
+59ecf741da2e006b9e11a3d3,Ice Cream Parlor,VeryLikelyOpen,489,"1698 Queen St W, Scarborough ON M6R 1B3",The Alley,43.667418,-79.312824
+5a81ae339deb7d369fa7f146,Bistro,VeryLikelyOpen,608,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Hailed Coffee,43.671324,-79.32719
+4ad4c05cf964a52012f620e3,Fish and Chips Shop,VeryLikelyOpen,153,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pegasus on Church,43.668614,-79.317268
+537d4d6d498ec171ba22e7fe,Indian Restaurant,LikelyOpen,294,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Jimmy's Coffee,43.67205,-79.322451
+5a81ae339deb7d369fa7f146,Bar,VeryLikelyOpen,456,"1471 Gerrard St E, Toronto ON M4L 2A1",Hailed Coffee,43.672346,-79.320804
+4ab2b0b9f964a520e56b20e3,Burger Joint,VeryLikelyOpen,454,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Queen and Beaver Public House,43.666763,-79.315564
+51755dc7498ece19b7261641,Diner,LikelyOpen,604,"1483 Queen St E, Toronto ON M4L 1E2",Banh Mi Boys,43.665121,-79.321347
+4a8355bff964a520d3fa1fe3,Egyptian Restaurant,VeryLikelyOpen,315,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Mercatto,43.671682,-79.328462
+5d782433f6e3190008b1a914,Café,VeryLikelyOpen,430,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Gyubee Japanese Grill,43.66388,-79.326107
+59f784dd28122f14f9d5d63d,Pizzeria,VeryLikelyOpen,823,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",HotBlack Coffee,43.666623,-79.316861
+5615b6c4498e3c32c67ad78f,Ice Cream Parlor,VeryLikelyOpen,748,"1698 Queen St W, Scarborough ON M6R 1B3",Blaze Pizza,43.667418,-79.312824
+509bb871e4b09c7ac93f6642,Bistro,VeryLikelyOpen,901,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",JaBistro,43.671324,-79.32719
+4b32a8bdf964a5202d1125e3,Fish and Chips Shop,VeryLikelyOpen,561,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Barberian's Steak House,43.668614,-79.317268
+4ab2b0b9f964a520e56b20e3,Indian Restaurant,VeryLikelyOpen,104,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Queen and Beaver Public House,43.67205,-79.322451
+51755dc7498ece19b7261641,Bar,LikelyOpen,291,"1471 Gerrard St E, Toronto ON M4L 2A1",Banh Mi Boys,43.672346,-79.320804
+5615b6c4498e3c32c67ad78f,Burger Joint,VeryLikelyOpen,220,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Blaze Pizza,43.666763,-79.315564
+537d4d6d498ec171ba22e7fe,Diner,LikelyOpen,298,"1483 Queen St E, Toronto ON M4L 1E2",Jimmy's Coffee,43.665121,-79.321347
+4ad4c061f964a52095f720e3,Egyptian Restaurant,VeryLikelyOpen,132,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Salad King,43.671682,-79.328462
+4b32a8bdf964a5202d1125e3,Café,VeryLikelyOpen,122,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Barberian's Steak House,43.66388,-79.326107
+5d782433f6e3190008b1a914,Pizzeria,VeryLikelyOpen,234,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gyubee Japanese Grill,43.666623,-79.316861
+4adc9148f964a520512d21e3,Ice Cream Parlor,VeryLikelyOpen,147,"1698 Queen St W, Scarborough ON M6R 1B3",Chipotle Mexican Grill,43.667418,-79.312824
+4d306dd82748b60c62b6dba0,Bistro,VeryLikelyOpen,289,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Trattoria Mercatto,43.671324,-79.32719
+4b2bd898f964a52042bc24e3,Fish and Chips Shop,VeryLikelyOpen,529,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Kinka Izakaya,43.668614,-79.317268
+4add0122f964a5205d6321e3,Indian Restaurant,VeryLikelyOpen,68,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Hodo Kwaja,43.67205,-79.322451
+4c7be89283a7bfb7637d8ff8,Bar,VeryLikelyOpen,136,"1471 Gerrard St E, Toronto ON M4L 2A1",Snakes & Lattes,43.672346,-79.320804
+5a9ae543b6eedb376f9a13ed,Burger Joint,VeryLikelyOpen,137,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Rustle & Still Café,43.666763,-79.315564
+4b11b1f2f964a520778223e3,Diner,LikelyOpen,33,"1483 Queen St E, Toronto ON M4L 1E2",Korean Village Restaurant,43.665121,-79.321347
+4ad4c05cf964a520cdf520e3,Egyptian Restaurant,VeryLikelyOpen,316,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Insomnia Restaurant and Lounge,43.671682,-79.328462
+4ada53e5f964a520592121e3,Café,VeryLikelyOpen,198,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Buk Chang Dong Soon Tofu,43.66388,-79.326107
+4adb5e5af964a520842621e3,Pizzeria,VeryLikelyOpen,456,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sam James Coffee Bar,43.666623,-79.316861
+56466b66498e2673f2f4bb3a,Ice Cream Parlor,VeryLikelyOpen,337,"1698 Queen St W, Scarborough ON M6R 1B3",Kinka Izakaya Bloor,43.667418,-79.312824
+5b3d62c9270ee7002c7de12e,Bistro,VeryLikelyOpen,730,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Paradise Grapevine,43.671324,-79.32719
+5707bcb9498e709b544e20b2,Fish and Chips Shop,VeryLikelyOpen,840,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Her Father's Cider Bar + Kitchen,43.668614,-79.317268
+4ad88fa9f964a520511221e3,Indian Restaurant,VeryLikelyOpen,174,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Black Camel,43.67205,-79.322451
+52ced2c9498e67e1059cf3b2,Bar,LikelyOpen,427,"1471 Gerrard St E, Toronto ON M4L 2A1",Greenhouse Juice Co,43.672346,-79.320804
+4af30f13f964a52030ea21e3,Burger Joint,VeryLikelyOpen,528,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Trattoria Nervosa,43.666763,-79.315564
+4bba7d86cf2fc9b62ba6a102,Diner,VeryLikelyOpen,580,"1483 Queen St E, Toronto ON M4L 1E2",Summer's Sweet Memories Inc,43.665121,-79.321347
+51f70ed7498e22ab07725a43,Egyptian Restaurant,VeryLikelyOpen,504,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Terroni,43.671682,-79.328462
+5282572111d2f33612220715,Café,VeryLikelyOpen,725,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Boxcar Social,43.66388,-79.326107
+506f75b5e4b010c1ae9b2b77,Pizzeria,VeryLikelyOpen,442,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Café Boulud,43.666623,-79.316861
+5a11ca51840fc2618c5a7390,Ice Cream Parlor,LikelyOpen,337,"1698 Queen St W, Scarborough ON M6R 1B3",Randy's Roti & Doubles,43.667418,-79.312824
+57e074a7498ef24d3980d2f5,Bistro,VeryLikelyOpen,588,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Planta,43.671324,-79.32719
+502441e5e4b069d5af657ee2,Fish and Chips Shop,LikelyOpen,445,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Balzac's Coffee,43.668614,-79.317268
+618dc35b3dd8160ca944ac3b,Indian Restaurant,VeryLikelyOpen,111,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",MIMI Chinese,43.67205,-79.322451
+4ad4c05ff964a52004f720e3,Bar,VeryLikelyOpen,151,"1471 Gerrard St E, Toronto ON M4L 2A1",Sotto Sotto Restaurant,43.672346,-79.320804
+56d5a00fcd109c07f4c4afa5,Burger Joint,VeryLikelyOpen,145,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",5 Elements Espresso,43.666763,-79.315564
+4dd5c8762271c5d36d13e5c1,Diner,VeryLikelyOpen,421,"1483 Queen St E, Toronto ON M4L 1E2",Playa Cabana,43.665121,-79.321347
+52ced2c9498e67e1059cf3b2,Egyptian Restaurant,LikelyOpen,640,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Greenhouse Juice Co,43.671682,-79.328462
+4bba7d86cf2fc9b62ba6a102,Café,VeryLikelyOpen,555,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Summer's Sweet Memories Inc,43.66388,-79.326107
+4ad88fa9f964a520511221e3,Pizzeria,VeryLikelyOpen,598,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Black Camel,43.666623,-79.316861
+4af30f13f964a52030ea21e3,Ice Cream Parlor,VeryLikelyOpen,607,"1698 Queen St W, Scarborough ON M6R 1B3",Trattoria Nervosa,43.667418,-79.312824
+4ad4c061f964a520a5f720e3,Bistro,VeryLikelyOpen,746,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Scaramouche Restaurant Pasta Bar & Grill,43.671324,-79.32719
+5b720ce2e17910002c42733f,Fish and Chips Shop,VeryLikelyOpen,558,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Alobar Yorkville,43.668614,-79.317268
+4af30f13f964a52030ea21e3,Indian Restaurant,VeryLikelyOpen,284,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Trattoria Nervosa,43.67205,-79.322451
+4bba7d86cf2fc9b62ba6a102,Bar,VeryLikelyOpen,381,"1471 Gerrard St E, Toronto ON M4L 2A1",Summer's Sweet Memories Inc,43.672346,-79.320804
+506f75b5e4b010c1ae9b2b77,Burger Joint,VeryLikelyOpen,179,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Café Boulud,43.666763,-79.315564
+502441e5e4b069d5af657ee2,Diner,LikelyOpen,70,"1483 Queen St E, Toronto ON M4L 1E2",Balzac's Coffee,43.665121,-79.321347
+5a11ca51840fc2618c5a7390,Egyptian Restaurant,LikelyOpen,68,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Randy's Roti & Doubles,43.671682,-79.328462
+4ad88fa9f964a520511221e3,Café,VeryLikelyOpen,577,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Black Camel,43.66388,-79.326107
+4f9b0e84e4b0d04dbf9767ee,Pizzeria,VeryLikelyOpen,446,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",The Oxley,43.666623,-79.316861
+5bd2379cbcbf7a0039a2d7b9,Ice Cream Parlor,VeryLikelyOpen,754,"1698 Queen St W, Scarborough ON M6R 1B3",Storm Crow Manor,43.667418,-79.312824
+5b720ce2e17910002c42733f,Bistro,VeryLikelyOpen,499,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Alobar Yorkville,43.671324,-79.32719
+59ecf741da2e006b9e11a3d3,Fish and Chips Shop,VeryLikelyOpen,692,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Alley,43.668614,-79.317268
+58233f576a80ef616dbf88ab,Indian Restaurant,VeryLikelyOpen,410,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",White Lily Diner,43.67205,-79.322451
+4bb77483b35776b0b394c701,Bar,VeryLikelyOpen,239,"1471 Gerrard St E, Toronto ON M4L 2A1",St John's Bakery,43.672346,-79.320804
+55637f1c498ecfe4c5dd2322,Burger Joint,LikelyOpen,449,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Boxcar Social,43.666763,-79.315564
+5500bd15498ec8482e5e635f,Diner,VeryLikelyOpen,428,"1483 Queen St E, Toronto ON M4L 1E2",La Carnita,43.665121,-79.321347
+4bfb0fcaf214a59368bcae0e,Egyptian Restaurant,LikelyOpen,366,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hanoi 3 Seasons,43.671682,-79.328462
+5de2ab055bf5aa0008cea4ea,Café,VeryLikelyOpen,474,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Blackbird Baking Co,43.66388,-79.326107
+553ab5bc498e111b32cd18f5,Pizzeria,VeryLikelyOpen,441,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Dark Horse Espresso Bar,43.666623,-79.316861
+4aeb98fff964a520a6c321e3,Ice Cream Parlor,VeryLikelyOpen,421,"1698 Queen St W, Scarborough ON M6R 1B3",The Comrade,43.667418,-79.312824
+519d414a498e6cc21f677ff4,Bistro,VeryLikelyOpen,481,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Tabule,43.671324,-79.32719
+5c1e894b7b385f002cdc6ca7,Fish and Chips Shop,VeryLikelyOpen,100,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Lady Marmalade,43.668614,-79.317268
+5a4fdf56772fbc5e9fa73c7f,Indian Restaurant,VeryLikelyOpen,75,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Chotto Matte,43.67205,-79.322451
+5c08474447f876002c736b68,Bar,VeryLikelyOpen,304,"1471 Gerrard St E, Toronto ON M4L 2A1",WVRST - Union Station,43.672346,-79.320804
+5a8f505eb6eedb5c284a78ad,Burger Joint,VeryLikelyOpen,185,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Walrus Pub & Beer Hall,43.666763,-79.315564
+4b5ca7d8f964a5207c3c29e3,Diner,VeryLikelyOpen,368,"1483 Queen St E, Toronto ON M4L 1E2",Beer Bistro,43.665121,-79.321347
+514627d1e4b0dba1b85e9ba8,Egyptian Restaurant,VeryLikelyOpen,488,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Dineen Coffee Co,43.671682,-79.328462
+5a53c6b0b0405614996330c6,Café,VeryLikelyOpen,501,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Mos Mos,43.66388,-79.326107
+4ad4c05cf964a520e3f520e3,Pizzeria,VeryLikelyOpen,443,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",C'est What,43.666623,-79.316861
+55fc571f498ec35023360858,Ice Cream Parlor,VeryLikelyOpen,471,"1698 Queen St W, Scarborough ON M6R 1B3",Cactus Club Cafe,43.667418,-79.312824
+506db1a9e4b0a3f3b31412f0,Bistro,LikelyOpen,611,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Richmond Station,43.671324,-79.32719
+574ad72238fa943556d93b8e,Fish and Chips Shop,VeryLikelyOpen,651,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Gyu-Kaku BBQ,43.668614,-79.317268
+5e0b969e063b9c000838dbc9,Indian Restaurant,VeryLikelyOpen,364,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Le Beau,43.67205,-79.322451
+4b4626fef964a5204a1826e3,Bar,VeryLikelyOpen,721,"1471 Gerrard St E, Toronto ON M4L 2A1",Rooster Coffee House,43.672346,-79.320804
+5619551a498e9e35fce2256b,Burger Joint,VeryLikelyOpen,655,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Sumach Espresso,43.666763,-79.315564
+4add3b20f964a520b16421e3,Diner,VeryLikelyOpen,750,"1483 Queen St E, Toronto ON M4L 1E2",House on Parliament,43.665121,-79.321347
+58233f576a80ef616dbf88ab,Egyptian Restaurant,VeryLikelyOpen,842,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",White Lily Diner,43.671682,-79.328462
+5de2ab055bf5aa0008cea4ea,Café,VeryLikelyOpen,796,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Blackbird Baking Co,43.66388,-79.326107
+5612b1cc498e3dd742af0dc8,Pizzeria,VeryLikelyOpen,856,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Impact Kitchen,43.666623,-79.316861
+553ab5bc498e111b32cd18f5,Ice Cream Parlor,VeryLikelyOpen,787,"1698 Queen St W, Scarborough ON M6R 1B3",Dark Horse Espresso Bar,43.667418,-79.312824
+50e8b903e4b04fa56858ecfe,Bistro,VeryLikelyOpen,976,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Zakkushi,43.671324,-79.32719
+4d2ba482068e8cfa15e7e44c,Fish and Chips Shop,VeryLikelyOpen,843,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Stout Irish Pub,43.668614,-79.317268
+509e9ef6e4b0ab175389a6c5,Indian Restaurant,VeryLikelyOpen,245,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Hokkaido Ramen Santouka,43.67205,-79.322451
+5615b6c4498e3c32c67ad78f,Bar,VeryLikelyOpen,430,"1471 Gerrard St E, Toronto ON M4L 2A1",Blaze Pizza,43.672346,-79.320804
+4fff1f96e4b042ae8acddca5,Burger Joint,VeryLikelyOpen,566,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Fahrenheit Coffee,43.666763,-79.315564
+4b2bd898f964a52042bc24e3,Diner,VeryLikelyOpen,497,"1483 Queen St E, Toronto ON M4L 1E2",Kinka Izakaya,43.665121,-79.321347
+4adf8077f964a5202d7b21e3,Egyptian Restaurant,LikelyOpen,164,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Kabul Express,43.671682,-79.328462
+51755dc7498ece19b7261641,Café,LikelyOpen,620,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Banh Mi Boys,43.66388,-79.326107
+574ad72238fa943556d93b8e,Pizzeria,VeryLikelyOpen,632,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gyu-Kaku BBQ,43.666623,-79.316861
+4ae5f583f964a52084a321e3,Ice Cream Parlor,VeryLikelyOpen,545,"1698 Queen St W, Scarborough ON M6R 1B3",The George Street Diner,43.667418,-79.312824
+5a81ae339deb7d369fa7f146,Bistro,VeryLikelyOpen,738,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Hailed Coffee,43.671324,-79.32719
+506db1a9e4b0a3f3b31412f0,Fish and Chips Shop,LikelyOpen,729,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Richmond Station,43.668614,-79.317268
+5b09e809a6031c002cdd9c37,Indian Restaurant,VeryLikelyOpen,51,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Wynona,43.67205,-79.322451
+5240e04fbce607d489eb95d9,Bar,VeryLikelyOpen,203,"1471 Gerrard St E, Toronto ON M4L 2A1",The Real Jerk Restaurant,43.672346,-79.320804
+4b5f3113f964a5203fac29e3,Burger Joint,VeryLikelyOpen,458,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Riverdale Perk,43.666763,-79.315564
+56fda2c9498e22d2e5ae4da0,Diner,VeryLikelyOpen,666,"1483 Queen St E, Toronto ON M4L 1E2",Pinkerton's Snack Bar,43.665121,-79.321347
+4b4626fef964a5204a1826e3,Egyptian Restaurant,VeryLikelyOpen,668,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Rooster Coffee House,43.671682,-79.328462
+4ae77362f964a52069ab21e3,Café,VeryLikelyOpen,322,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Mi Mi Restaurant,43.66388,-79.326107
+4b9567c4f964a520daa034e3,Pizzeria,LikelyOpen,344,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Que Ling Restaurant,43.666623,-79.316861
+4ad7e958f964a520001021e3,Ice Cream Parlor,VeryLikelyOpen,774,"1698 Queen St W, Scarborough ON M6R 1B3",Eds Real Scoop,43.667418,-79.312824
+4ad78ecaf964a520220c21e3,Bistro,LikelyOpen,843,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Te Aro,43.671324,-79.32719
+55637f1c498ecfe4c5dd2322,Fish and Chips Shop,LikelyOpen,842,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Boxcar Social,43.668614,-79.317268
+5753753b498eeb535c53aed5,Indian Restaurant,VeryLikelyOpen,525,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Greater Good Bar,43.67205,-79.322451
+4b5c7ad5f964a520df3129e3,Bar,VeryLikelyOpen,665,"1471 Gerrard St E, Toronto ON M4L 2A1",Tre Mari Bakery,43.672346,-79.320804
+5a5659ab17556229a036b74a,Burger Joint,VeryLikelyOpen,528,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Parallel,43.666763,-79.315564
+4fef6339e4b0caa9ac6d011e,Diner,VeryLikelyOpen,492,"1483 Queen St E, Toronto ON M4L 1E2",King's Tacos,43.665121,-79.321347
+4dd5dc2445ddced820612749,Egyptian Restaurant,VeryLikelyOpen,478,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Pizza e Pazzi,43.671682,-79.328462
+4b81a826f964a520c9b530e3,Café,VeryLikelyOpen,559,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Rio 40 Restaurant,43.66388,-79.326107
+4af370bbf964a520aced21e3,Pizzeria,VeryLikelyOpen,534,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Desotos,43.666623,-79.316861
+5a2a9708ccad6b57983d95e3,Ice Cream Parlor,VeryLikelyOpen,759,"1698 Queen St W, Scarborough ON M6R 1B3",Balzac's Coffee Roasters,43.667418,-79.312824
+58c442ef4ca49b2c8e7df995,Bistro,VeryLikelyOpen,688,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Itacate,43.671324,-79.32719
+4f14a5cbe4b072565fe420b4,Fish and Chips Shop,VeryLikelyOpen,527,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",California Sushi,43.668614,-79.317268
+4ad7e958f964a520001021e3,Indian Restaurant,VeryLikelyOpen,334,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Eds Real Scoop,43.67205,-79.322451
+4ad78ecaf964a520220c21e3,Bar,LikelyOpen,394,"1471 Gerrard St E, Toronto ON M4L 2A1",Te Aro,43.672346,-79.320804
+4afef85ff964a5204a3222e3,Burger Joint,VeryLikelyOpen,327,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Reliable Halibut & Chips,43.666763,-79.315564
+55637f1c498ecfe4c5dd2322,Diner,LikelyOpen,579,"1483 Queen St E, Toronto ON M4L 1E2",Boxcar Social,43.665121,-79.321347
+519d414a498e6cc21f677ff4,Egyptian Restaurant,VeryLikelyOpen,539,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Tabule,43.671682,-79.328462
+5500bd15498ec8482e5e635f,Café,VeryLikelyOpen,613,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",La Carnita,43.66388,-79.326107
+4ec03c1329c25ce5a22fca40,Pizzeria,VeryLikelyOpen,584,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Ascari Enoteca,43.666623,-79.316861
+4cd7538f886cb60c8cc08e89,Ice Cream Parlor,VeryLikelyOpen,630,"1698 Queen St W, Scarborough ON M6R 1B3",Bobbette & Belle,43.667418,-79.312824
+4ae0c900f964a520718221e3,Bistro,VeryLikelyOpen,326,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mercury Espresso Bar,43.671324,-79.32719
+53af0086498eb15122135e6a,Fish and Chips Shop,VeryLikelyOpen,700,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Completo,43.668614,-79.317268
+55cbe079498e206cdf9f4c97,Indian Restaurant,VeryLikelyOpen,569,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Descendant Detroit Style Pizza,43.67205,-79.322451
+54302333498ed6ec0533ab40,Bar,VeryLikelyOpen,484,"1471 Gerrard St E, Toronto ON M4L 2A1",Maha's Fine Egyptian Cuisine,43.672346,-79.320804
+56fda2c9498e22d2e5ae4da0,Burger Joint,VeryLikelyOpen,655,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Pinkerton's Snack Bar,43.666763,-79.315564
+53af0086498eb15122135e6a,Diner,VeryLikelyOpen,660,"1483 Queen St E, Toronto ON M4L 1E2",Completo,43.665121,-79.321347
+5cb8888dc0cacb002cf98062,Egyptian Restaurant,VeryLikelyOpen,456,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Le Conciliabule,43.671682,-79.328462
+4cd7538f886cb60c8cc08e89,Café,VeryLikelyOpen,727,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Bobbette & Belle,43.66388,-79.326107
+4ae0c7a8f964a520638221e3,Pizzeria,VeryLikelyOpen,757,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Udupi Palace,43.666623,-79.316861
+4ec03c1329c25ce5a22fca40,Ice Cream Parlor,VeryLikelyOpen,771,"1698 Queen St W, Scarborough ON M6R 1B3",Ascari Enoteca,43.667418,-79.312824
+4ad4c060f964a5207bf720e3,Bistro,VeryLikelyOpen,461,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Gio Rana's Really Really Nice Restaurant,43.671324,-79.32719
+4ada456ff964a520c22021e3,Fish and Chips Shop,VeryLikelyOpen,716,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Hanoi 3 Seasons,43.668614,-79.317268
+56fda2c9498e22d2e5ae4da0,Indian Restaurant,VeryLikelyOpen,402,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Pinkerton's Snack Bar,43.67205,-79.322451
+5240e04fbce607d489eb95d9,Bar,VeryLikelyOpen,640,"1471 Gerrard St E, Toronto ON M4L 2A1",The Real Jerk Restaurant,43.672346,-79.320804
+4b5f3113f964a5203fac29e3,Burger Joint,VeryLikelyOpen,702,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Riverdale Perk,43.666763,-79.315564
+54302333498ed6ec0533ab40,Diner,VeryLikelyOpen,792,"1483 Queen St E, Toronto ON M4L 1E2",Maha's Fine Egyptian Cuisine,43.665121,-79.321347
+5a8864b4cbcdee114e72b954,Egyptian Restaurant,VeryLikelyOpen,394,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Dineen Outpost,43.671682,-79.328462
+4b1002f6f964a5206f6723e3,Café,LikelyOpen,518,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Pizza Pide,43.66388,-79.326107
+5b09e809a6031c002cdd9c37,Pizzeria,VeryLikelyOpen,792,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Wynona,43.666623,-79.316861
+502826ffe4b039d48c722f78,Ice Cream Parlor,VeryLikelyOpen,862,"1698 Queen St W, Scarborough ON M6R 1B3",Athens Restaurant,43.667418,-79.312824
+4aeb26cff964a52009bf21e3,Bistro,VeryLikelyOpen,884,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Only Cafe,43.671324,-79.32719
+5cb8888dc0cacb002cf98062,Fish and Chips Shop,VeryLikelyOpen,910,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Le Conciliabule,43.668614,-79.317268
+4cd7538f886cb60c8cc08e89,Indian Restaurant,VeryLikelyOpen,333,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Bobbette & Belle,43.67205,-79.322451
+4ad78ecaf964a520220c21e3,Bar,LikelyOpen,384,"1471 Gerrard St E, Toronto ON M4L 2A1",Te Aro,43.672346,-79.320804
+53af0086498eb15122135e6a,Burger Joint,VeryLikelyOpen,376,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Completo,43.666763,-79.315564
+4ec03c1329c25ce5a22fca40,Diner,VeryLikelyOpen,320,"1483 Queen St E, Toronto ON M4L 1E2",Ascari Enoteca,43.665121,-79.321347
+55cbe079498e206cdf9f4c97,Egyptian Restaurant,VeryLikelyOpen,445,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Descendant Detroit Style Pizza,43.671682,-79.328462
+4ada456ff964a520c22021e3,Café,VeryLikelyOpen,332,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Hanoi 3 Seasons,43.66388,-79.326107
+4ad7e958f964a520001021e3,Pizzeria,VeryLikelyOpen,599,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Eds Real Scoop,43.666623,-79.316861
+4ada03e4f964a520421d21e3,Ice Cream Parlor,LikelyOpen,380,"1698 Queen St W, Scarborough ON M6R 1B3",Tango Palace Coffee Co,43.667418,-79.312824
+4afef85ff964a5204a3222e3,Bistro,VeryLikelyOpen,524,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Reliable Halibut & Chips,43.671324,-79.32719
+4bc259ea4cdfc9b6bf099621,Fish and Chips Shop,VeryLikelyOpen,297,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Kristapsons Inc,43.668614,-79.317268
+4bb75e0f6edc76b03212321c,Indian Restaurant,VeryLikelyOpen,923,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Serano Bakery,43.67205,-79.322451
+4cac0be72776b60cee814e0d,Bar,LikelyOpen,49,"1471 Gerrard St E, Toronto ON M4L 2A1",Golden Pizza,43.672346,-79.320804
+4f405fb2e4b0d395c745494e,Burger Joint,LikelyOpen,583,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Greek Grill,43.666763,-79.315564
+4bc9b8950687ef3bbc53dacc,Diner,VeryLikelyOpen,498,"1483 Queen St E, Toronto ON M4L 1E2",Danish Pastry Shop,43.665121,-79.321347
+544bee8b498ece3f8ce209fe,Egyptian Restaurant,VeryLikelyOpen,802,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Goat Coffee Co,43.671682,-79.328462
+4bd22db89854d13a7129fb4d,Café,LikelyOpen,443,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Subway,43.66388,-79.326107
+53d2e5e4498e4febaf28f2b8,Pizzeria,VeryLikelyOpen,886,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Tzatziki,43.666623,-79.316861
+4d72d530ec075481ab7c8fbf,Ice Cream Parlor,LikelyOpen,790,"1698 Queen St W, Scarborough ON M6R 1B3",Number One Chinese Restaurant,43.667418,-79.312824
+613d19c394f23c26fa5a1e74,Bistro,VeryLikelyOpen,456,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Burger King,43.671324,-79.32719
+59836266e1f0aa182cf031ec,Fish and Chips Shop,Unsure,403,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",241 Pizza,43.668614,-79.317268
+5615b6c4498e3c32c67ad78f,Indian Restaurant,VeryLikelyOpen,130,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Blaze Pizza,43.67205,-79.322451
+509e9ef6e4b0ab175389a6c5,Bar,VeryLikelyOpen,91,"1471 Gerrard St E, Toronto ON M4L 2A1",Hokkaido Ramen Santouka,43.672346,-79.320804
+51755dc7498ece19b7261641,Burger Joint,LikelyOpen,382,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Banh Mi Boys,43.666763,-79.315564
+5a81ae339deb7d369fa7f146,Diner,VeryLikelyOpen,467,"1483 Queen St E, Toronto ON M4L 1E2",Hailed Coffee,43.665121,-79.321347
+4b2bd898f964a52042bc24e3,Egyptian Restaurant,VeryLikelyOpen,408,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Kinka Izakaya,43.671682,-79.328462
+5064c3dde4b07c5a18986283,Café,VeryLikelyOpen,190,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Five Guys Burgers & Fries,43.66388,-79.326107
+4ab2b0b9f964a520e56b20e3,Pizzeria,VeryLikelyOpen,408,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",The Queen and Beaver Public House,43.666623,-79.316861
+4ad4c061f964a52095f720e3,Ice Cream Parlor,VeryLikelyOpen,261,"1698 Queen St W, Scarborough ON M6R 1B3",Salad King,43.667418,-79.312824
+4adc9148f964a520512d21e3,Bistro,VeryLikelyOpen,194,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Chipotle Mexican Grill,43.671324,-79.32719
+4adf8077f964a5202d7b21e3,Fish and Chips Shop,LikelyOpen,151,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Kabul Express,43.668614,-79.317268
+4fff1f96e4b042ae8acddca5,Indian Restaurant,VeryLikelyOpen,657,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Fahrenheit Coffee,43.67205,-79.322451
+4b2bd898f964a52042bc24e3,Bar,VeryLikelyOpen,585,"1471 Gerrard St E, Toronto ON M4L 2A1",Kinka Izakaya,43.672346,-79.320804
+4ae5f583f964a52084a321e3,Burger Joint,VeryLikelyOpen,595,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The George Street Diner,43.666763,-79.315564
+4add3b20f964a520b16421e3,Diner,VeryLikelyOpen,695,"1483 Queen St E, Toronto ON M4L 1E2",House on Parliament,43.665121,-79.321347
+509e9ef6e4b0ab175389a6c5,Egyptian Restaurant,VeryLikelyOpen,469,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hokkaido Ramen Santouka,43.671682,-79.328462
+574ad72238fa943556d93b8e,Café,VeryLikelyOpen,774,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Gyu-Kaku BBQ,43.66388,-79.326107
+5615b6c4498e3c32c67ad78f,Pizzeria,VeryLikelyOpen,647,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Blaze Pizza,43.666623,-79.316861
+51755dc7498ece19b7261641,Ice Cream Parlor,LikelyOpen,779,"1698 Queen St W, Scarborough ON M6R 1B3",Banh Mi Boys,43.667418,-79.312824
+4ae4a9baf964a520e69c21e3,Bistro,VeryLikelyOpen,578,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Chew Chew's Diner,43.671324,-79.32719
+506880f3e8893b5a347c4043,Fish and Chips Shop,VeryLikelyOpen,738,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Triple a Bar,43.668614,-79.317268
+5be56fc046e1b6002c15ca16,Indian Restaurant,VeryLikelyOpen,615,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Starbucks,43.67205,-79.322451
+4db4a1de0cb6729b6a978664,Bar,VeryLikelyOpen,790,"1471 Gerrard St E, Toronto ON M4L 2A1",Tim Hortons,43.672346,-79.320804
+4c8d2fadf87e224ba3873b05,Burger Joint,LikelyOpen,746,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Double Sushi Japanese Restaurant,43.666763,-79.315564
+4f32fcb9e4b0547a0d656ca7,Diner,VeryLikelyOpen,461,"1483 Queen St E, Toronto ON M4L 1E2",Tim Hortons,43.665121,-79.321347
+4c23fb5cb7b8a59314ce3be8,Egyptian Restaurant,VeryLikelyOpen,886,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Popeye's Louisiana Kitchen,43.671682,-79.328462
+4b7ed401f964a5207e0230e3,Café,LikelyOpen,733,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Pizza Pizza,43.66388,-79.326107
+5b7e6a5d492814002c86b3c1,Pizzeria,LikelyOpen,308,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Mr.Sub,43.666623,-79.316861
+63cae5e4f092e2235b59b77b,Ice Cream Parlor,VeryLikelyOpen,316,"1698 Queen St W, Scarborough ON M6R 1B3",Il Cucina,43.667418,-79.312824
+5dcc2de828d93e0008ede926,Bistro,VeryLikelyOpen,347,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Tim Hortons,43.671324,-79.32719
+4d39da7d979ea143c9108afc,Fish and Chips Shop,LikelyOpen,357,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Wing Wing Restaurant,43.668614,-79.317268
+52418b0b7e48222eea81d2d2,Indian Restaurant,VeryLikelyOpen,505,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Pukka,43.67205,-79.322451
+53553241498ec641e3a6b798,Bar,VeryLikelyOpen,261,"1471 Gerrard St E, Toronto ON M4L 2A1",Baker and Scone,43.672346,-79.320804
+5748bdbf498e3b6d10222371,Burger Joint,VeryLikelyOpen,394,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Bar Ape,43.666763,-79.315564
+59bc5ac94b78c5276f4bd18b,Diner,VeryLikelyOpen,212,"1483 Queen St E, Toronto ON M4L 1E2",Queen of Persia,43.665121,-79.321347
+4ad4c05cf964a52018f620e3,Egyptian Restaurant,VeryLikelyOpen,356,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Dutch Dreams Icecream Parlor Toronto,43.671682,-79.328462
+4aeb7abbf964a52080c221e3,Café,VeryLikelyOpen,450,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Ferro Bar & Cafe,43.66388,-79.326107
+5557fce2498e63ff8af4ce9f,Pizzeria,VeryLikelyOpen,408,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Booyah,43.666623,-79.316861
+53dec142498e2c0cf1b311b1,Ice Cream Parlor,VeryLikelyOpen,155,"1698 Queen St W, Scarborough ON M6R 1B3",Sea Witch Fish & Chips,43.667418,-79.312824
+59a1fae23af98819c17d2c8a,Bistro,VeryLikelyOpen,495,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Craque de Creme,43.671324,-79.32719
+5013f8d5e4b02c1e0c0af2bf,Fish and Chips Shop,VeryLikelyOpen,1438,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Emma's Country Kitchen,43.668614,-79.317268
+4adc5a0bf964a520d12b21e3,Indian Restaurant,LikelyOpen,431,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Bagel House,43.67205,-79.322451
+4b15383bf964a52079a923e3,Bar,VeryLikelyOpen,595,"1471 Gerrard St E, Toronto ON M4L 2A1",Capocaccia Cafe,43.672346,-79.320804
+52acedc011d2bf5586251c3c,Burger Joint,VeryLikelyOpen,354,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Union Social Eatery,43.666763,-79.315564
+5a119e738a6f175e860cac17,Diner,VeryLikelyOpen,373,"1483 Queen St E, Toronto ON M4L 1E2",Mary Be Kitchen,43.665121,-79.321347
+52fbfe3411d22ddfbf78fe11,Egyptian Restaurant,LikelyOpen,959,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Kibo Sushi House,43.671682,-79.328462
+5890f70e65be581749d7522e,Café,VeryLikelyOpen,957,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Nutbar,43.66388,-79.326107
+508046d819a95ab643d68731,Pizzeria,LikelyOpen,527,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sunny Morning,43.666623,-79.316861
+59f2a6423b83077c097bb5b6,Ice Cream Parlor,LikelyOpen,374,"1698 Queen St W, Scarborough ON M6R 1B3",Mermaid Fish and Grill House,43.667418,-79.312824
+4cc9ae6141e75481dff85d84,Bistro,VeryLikelyOpen,801,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Flaming Stove,43.671324,-79.32719
+4b59169df964a520f17b28e3,Fish and Chips Shop,LikelyOpen,884,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pizza Pizza,43.668614,-79.317268
+4aee242ef964a52077d221e3,Indian Restaurant,LikelyOpen,373,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Tabule Restaurant,43.67205,-79.322451
+4ae6ea6ef964a52082a721e3,Bar,VeryLikelyOpen,977,"1471 Gerrard St E, Toronto ON M4L 2A1",Jules Cafe Patisserie,43.672346,-79.320804
+4cc9ae6141e75481dff85d84,Burger Joint,VeryLikelyOpen,94,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Flaming Stove,43.666763,-79.315564
+4ad772faf964a520a70a21e3,Diner,VeryLikelyOpen,907,"1483 Queen St E, Toronto ON M4L 1E2",The Keg Steakhouse + Bar,43.665121,-79.321347
+4b59169df964a520f17b28e3,Egyptian Restaurant,LikelyOpen,152,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Pizza Pizza,43.671682,-79.328462
+4ae5077ef964a52018a021e3,Café,VeryLikelyOpen,447,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",St. Louis Bar and Grill,43.66388,-79.326107
+4af9b4eaf964a520891322e3,Pizzeria,VeryLikelyOpen,115,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Bull & Firkin,43.666623,-79.316861
+4b9e7b59f964a520bfe736e3,Ice Cream Parlor,LikelyOpen,20,"1698 Queen St W, Scarborough ON M6R 1B3",Second Cup Coffee Co,43.667418,-79.312824
+4b4f6b9bf964a520d20527e3,Bistro,VeryLikelyOpen,147,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Subway,43.671324,-79.32719
+4b4ff5d6f964a5205d1a27e3,Fish and Chips Shop,VeryLikelyOpen,106,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Tim Hortons,43.668614,-79.317268
+4ae338e1f964a520e39121e3,Indian Restaurant,VeryLikelyOpen,433,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Le Select Bistro,43.67205,-79.322451
+4af0c5c1f964a5200fdf21e3,Bar,VeryLikelyOpen,573,"1471 Gerrard St E, Toronto ON M4L 2A1",Rodney's Oyster House,43.672346,-79.320804
+4df796f1aeb7da11e1a974d4,Burger Joint,VeryLikelyOpen,611,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",SOMA chocolatemaker,43.666763,-79.315564
+544fc36c498ea63958331891,Diner,VeryLikelyOpen,608,"1483 Queen St E, Toronto ON M4L 1E2",Wilbur Mexicana,43.665121,-79.321347
+54490365498e78a9fe510022,Egyptian Restaurant,VeryLikelyOpen,381,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Starbucks,43.671682,-79.328462
+4c10f2d95a43d13a97d7174b,Café,VeryLikelyOpen,348,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Music Garden Cafe,43.66388,-79.326107
+58e8216e6cea3f7650d24012,Pizzeria,VeryLikelyOpen,27,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Bobo Tea & Juice,43.666623,-79.316861
+4b2274c1f964a5200f4724e3,Ice Cream Parlor,VeryLikelyOpen,697,"1698 Queen St W, Scarborough ON M6R 1B3",Jimmy's Coffee,43.667418,-79.312824
+4fcc0dd177167574f0de38d5,Bistro,VeryLikelyOpen,669,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Bar Hop,43.671324,-79.32719
+4dcb3ddefa76d745f0514d24,Fish and Chips Shop,VeryLikelyOpen,621,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",WVRST,43.668614,-79.317268
+59f7bad335811b13a241e498,Indian Restaurant,VeryLikelyOpen,95,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Gyubee,43.67205,-79.322451
+4df15e3c1f6e818dadf7afc0,Bar,VeryLikelyOpen,332,"1471 Gerrard St E, Toronto ON M4L 2A1",Fresh on Bloor,43.672346,-79.320804
+4b17d44af964a52099c823e3,Burger Joint,VeryLikelyOpen,35,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",L'Espresso Bar Mercurio,43.666763,-79.315564
+4b58a308f964a520db6228e3,Diner,LikelyOpen,547,"1483 Queen St E, Toronto ON M4L 1E2",Cobs Bread,43.665121,-79.321347
+5707bcb9498e709b544e20b2,Egyptian Restaurant,VeryLikelyOpen,688,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Her Father's Cider Bar + Kitchen,43.671682,-79.328462
+5362c366498e602fbe1db395,Café,VeryLikelyOpen,585,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Yasu,43.66388,-79.326107
+4bba7d86cf2fc9b62ba6a102,Pizzeria,VeryLikelyOpen,697,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Summer's Sweet Memories Inc,43.666623,-79.316861
+5b720ce2e17910002c42733f,Ice Cream Parlor,VeryLikelyOpen,576,"1698 Queen St W, Scarborough ON M6R 1B3",Alobar Yorkville,43.667418,-79.312824
+4af30f13f964a52030ea21e3,Bistro,VeryLikelyOpen,786,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Trattoria Nervosa,43.671324,-79.32719
+524c6ea511d207bb0817c28e,Fish and Chips Shop,LikelyOpen,564,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Nespresso Boutique Bar,43.668614,-79.317268
+4fccaa8fe4b05a98df3d9417,Indian Restaurant,LikelyOpen,93,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Sam James Coffee Bar,43.67205,-79.322451
+5b6c842bc36588002c80a934,Bar,VeryLikelyOpen,194,"1471 Gerrard St E, Toronto ON M4L 2A1",Cafe Landwer,43.672346,-79.320804
+5462ac56498e128ccafe8fea,Burger Joint,VeryLikelyOpen,159,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Pizzeria Libretto,43.666763,-79.315564
+55fc571f498ec35023360858,Diner,VeryLikelyOpen,183,"1483 Queen St E, Toronto ON M4L 1E2",Cactus Club Cafe,43.665121,-79.321347
+4ad69511f964a520e40721e3,Egyptian Restaurant,VeryLikelyOpen,232,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",The Keg Steakhouse + Bar,43.671682,-79.328462
+59603f86112c6c70931c9401,Café,VeryLikelyOpen,104,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",King Taps,43.66388,-79.326107
+50322b6ae4b09116a296568c,Pizzeria,VeryLikelyOpen,282,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Soho House,43.666623,-79.316861
+5c08474447f876002c736b68,Ice Cream Parlor,VeryLikelyOpen,366,"1698 Queen St W, Scarborough ON M6R 1B3",WVRST - Union Station,43.667418,-79.312824
+529612de11d2ab526191ccc9,Bistro,VeryLikelyOpen,434,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Pai,43.671324,-79.32719
+5a4fdf56772fbc5e9fa73c7f,Fish and Chips Shop,VeryLikelyOpen,392,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Chotto Matte,43.668614,-79.317268
+4adc5a0bf964a520d12b21e3,Indian Restaurant,LikelyOpen,378,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Bagel House,43.67205,-79.322451
+5282572111d2f33612220715,Bar,VeryLikelyOpen,720,"1471 Gerrard St E, Toronto ON M4L 2A1",Boxcar Social,43.672346,-79.320804
+4b15383bf964a52079a923e3,Burger Joint,VeryLikelyOpen,412,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Capocaccia Cafe,43.666763,-79.315564
+52fbfe3411d22ddfbf78fe11,Diner,LikelyOpen,640,"1483 Queen St E, Toronto ON M4L 1E2",Kibo Sushi House,43.665121,-79.321347
+5890f70e65be581749d7522e,Egyptian Restaurant,VeryLikelyOpen,621,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Nutbar,43.671682,-79.328462
+51f70ed7498e22ab07725a43,Café,VeryLikelyOpen,910,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Terroni,43.66388,-79.326107
+52acedc011d2bf5586251c3c,Pizzeria,VeryLikelyOpen,470,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Union Social Eatery,43.666623,-79.316861
+4ad4c05cf964a5200df620e3,Ice Cream Parlor,VeryLikelyOpen,850,"1698 Queen St W, Scarborough ON M6R 1B3",The Rosedale Diner,43.667418,-79.312824
+5a119e738a6f175e860cac17,Bistro,VeryLikelyOpen,483,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mary Be Kitchen,43.671324,-79.32719
+54137c5d498ecf2e46f9f6fb,Fish and Chips Shop,VeryLikelyOpen,856,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sorrell Restaurant,43.668614,-79.317268
+541da101498e3a898ac95032,Indian Restaurant,VeryLikelyOpen,199,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Outpost Coffee Roasters,43.67205,-79.322451
+549a5a35498efecb7e666506,Bar,VeryLikelyOpen,307,"1471 Gerrard St E, Toronto ON M4L 2A1",The Gaslight,43.672346,-79.320804
+4c99374b292a6dcb5f72c476,Burger Joint,LikelyOpen,323,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Osaka Sushi Japanese Restaurant,43.666763,-79.315564
+52348da911d2fa119be56f12,Diner,LikelyOpen,611,"1483 Queen St E, Toronto ON M4L 1E2",La Cubana,43.665121,-79.321347
+4ae35797f964a520bc9321e3,Egyptian Restaurant,VeryLikelyOpen,269,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",King Slice,43.671682,-79.328462
+4cb8910976ad9c744951e5cb,Café,Unsure,409,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Hula Girl Espresso Boutique,43.66388,-79.326107
+4ad8fc3df964a520c31621e3,Pizzeria,VeryLikelyOpen,740,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Inter-Ster Restaurant,43.666623,-79.316861
+5963b3e52be425495a1ed8a1,Ice Cream Parlor,VeryLikelyOpen,774,"1698 Queen St W, Scarborough ON M6R 1B3",Sugo,43.667418,-79.312824
+4e20e9d9e4cdf685918068b5,Bistro,VeryLikelyOpen,672,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Mugshot Tavern,43.671324,-79.32719
+55ad1c45498ee54a96be5ba6,Fish and Chips Shop,VeryLikelyOpen,987,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Mattachioni,43.668614,-79.317268
+4ae338e1f964a520e39121e3,Indian Restaurant,VeryLikelyOpen,554,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Le Select Bistro,43.67205,-79.322451
+544fc36c498ea63958331891,Bar,VeryLikelyOpen,638,"1471 Gerrard St E, Toronto ON M4L 2A1",Wilbur Mexicana,43.672346,-79.320804
+4af0c5c1f964a5200fdf21e3,Burger Joint,VeryLikelyOpen,687,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Rodney's Oyster House,43.666763,-79.315564
+4df796f1aeb7da11e1a974d4,Diner,VeryLikelyOpen,751,"1483 Queen St E, Toronto ON M4L 1E2",SOMA chocolatemaker,43.665121,-79.321347
+4b2274c1f964a5200f4724e3,Egyptian Restaurant,VeryLikelyOpen,677,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Jimmy's Coffee,43.671682,-79.328462
+5620d090498e997b0002172e,Café,VeryLikelyOpen,717,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Simit & Chai Co,43.66388,-79.326107
+570027be498e3f54be8ab8eb,Pizzeria,VeryLikelyOpen,201,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Tim Hortons,43.666623,-79.316861
+4dcb3ddefa76d745f0514d24,Ice Cream Parlor,VeryLikelyOpen,567,"1698 Queen St W, Scarborough ON M6R 1B3",WVRST,43.667418,-79.312824
+5a2f13e28ad62e3cdea5e26f,Bistro,VeryLikelyOpen,693,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Chubby's Jamaican Kitchen,43.671324,-79.32719
+4c10116ace57c928bd4781d2,Fish and Chips Shop,VeryLikelyOpen,726,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Beast Restaurant,43.668614,-79.317268
+5707bcb9498e709b544e20b2,Indian Restaurant,VeryLikelyOpen,280,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Her Father's Cider Bar + Kitchen,43.67205,-79.322451
+4aec4c24f964a520e9c521e3,Bar,VeryLikelyOpen,263,"1471 Gerrard St E, Toronto ON M4L 2A1",Harbord Bakery Ltd,43.672346,-79.320804
+5061dbab498ee603149683e5,Burger Joint,VeryLikelyOpen,617,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Voodoo Child,43.666763,-79.315564
+4df15e3c1f6e818dadf7afc0,Diner,VeryLikelyOpen,590,"1483 Queen St E, Toronto ON M4L 1E2",Fresh on Bloor,43.665121,-79.321347
+4d13b509e3b5224b14da9143,Egyptian Restaurant,VeryLikelyOpen,566,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Café Pamenar,43.671682,-79.328462
+4b58a308f964a520db6228e3,Café,LikelyOpen,630,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cobs Bread,43.66388,-79.326107
+52c5dd8d498e25dee9f19457,Pizzeria,VeryLikelyOpen,726,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Ramen Isshin,43.666623,-79.316861
+535163cf498ea10a3b9582b5,Ice Cream Parlor,VeryLikelyOpen,754,"1698 Queen St W, Scarborough ON M6R 1B3",Blackbird Baking Co,43.667418,-79.312824
+587bc580e786b26b0d586aa3,Bistro,VeryLikelyOpen,732,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Film Cafe,43.671324,-79.32719
+4ad4c05df964a5204cf620e3,Fish and Chips Shop,VeryLikelyOpen,761,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sneaky Dee's,43.668614,-79.317268
+55f7090e498ea00cbdb2db1c,Indian Restaurant,VeryLikelyOpen,282,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",TuckShop Kitchen,43.67205,-79.322451
+55ad1c45498ee54a96be5ba6,Bar,VeryLikelyOpen,334,"1471 Gerrard St E, Toronto ON M4L 2A1",Mattachioni,43.672346,-79.320804
+506f3aa3e4b0b0ed3e1dc405,Burger Joint,VeryLikelyOpen,574,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Indie Alehouse,43.666763,-79.315564
+4baebdabf964a520ddd33be3,Diner,LikelyOpen,566,"1483 Queen St E, Toronto ON M4L 1E2",The Hole in the Wall,43.665121,-79.321347
+572e0547498ed619e59df508,Egyptian Restaurant,VeryLikelyOpen,685,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hale Coffee,43.671682,-79.328462
+50829e2ce4b0073ffb077ef8,Café,VeryLikelyOpen,428,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cafe Con Leche,43.66388,-79.326107
+4e6149acb993678bb5dae95b,Pizzeria,VeryLikelyOpen,470,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Thai Lime,43.666623,-79.316861
+5a2a9708ccad6b57983d95e3,Ice Cream Parlor,VeryLikelyOpen,855,"1698 Queen St W, Scarborough ON M6R 1B3",Balzac's Coffee Roasters,43.667418,-79.312824
+4bce35a1fb84c9b60272233e,Bistro,LikelyOpen,684,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Piri-Piri,43.671324,-79.32719
+57f06846498e1e1c5bcf3704,Fish and Chips Shop,VeryLikelyOpen,831,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Famous Last Words,43.668614,-79.317268
+541da101498e3a898ac95032,Indian Restaurant,VeryLikelyOpen,176,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Outpost Coffee Roasters,43.67205,-79.322451
+549a5a35498efecb7e666506,Bar,VeryLikelyOpen,362,"1471 Gerrard St E, Toronto ON M4L 2A1",The Gaslight,43.672346,-79.320804
+4c99374b292a6dcb5f72c476,Burger Joint,LikelyOpen,293,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Osaka Sushi Japanese Restaurant,43.666763,-79.315564
+4cb8910976ad9c744951e5cb,Diner,Unsure,300,"1483 Queen St E, Toronto ON M4L 1E2",Hula Girl Espresso Boutique,43.665121,-79.321347
+4ae35797f964a520bc9321e3,Egyptian Restaurant,VeryLikelyOpen,243,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",King Slice,43.671682,-79.328462
+52348da911d2fa119be56f12,Café,LikelyOpen,710,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",La Cubana,43.66388,-79.326107
+4e20e9d9e4cdf685918068b5,Pizzeria,VeryLikelyOpen,636,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",The Mugshot Tavern,43.666623,-79.316861
+572e0547498ed619e59df508,Ice Cream Parlor,VeryLikelyOpen,950,"1698 Queen St W, Scarborough ON M6R 1B3",Hale Coffee,43.667418,-79.312824
+55ad1c45498ee54a96be5ba6,Bistro,VeryLikelyOpen,883,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mattachioni,43.671324,-79.32719
+5963b3e52be425495a1ed8a1,Fish and Chips Shop,VeryLikelyOpen,824,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sugo,43.668614,-79.317268
+4d13b509e3b5224b14da9143,Indian Restaurant,VeryLikelyOpen,106,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Café Pamenar,43.67205,-79.322451
+5061dbab498ee603149683e5,Bar,VeryLikelyOpen,195,"1471 Gerrard St E, Toronto ON M4L 2A1",Voodoo Child,43.672346,-79.320804
+52c5dd8d498e25dee9f19457,Burger Joint,VeryLikelyOpen,324,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Ramen Isshin,43.666763,-79.315564
+587bc580e786b26b0d586aa3,Diner,VeryLikelyOpen,285,"1483 Queen St E, Toronto ON M4L 1E2",Film Cafe,43.665121,-79.321347
+535163cf498ea10a3b9582b5,Egyptian Restaurant,VeryLikelyOpen,365,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Blackbird Baking Co,43.671682,-79.328462
+4ae513ebf964a52041a021e3,Café,VeryLikelyOpen,211,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cloak & Dagger Irish Pub,43.66388,-79.326107
+55175269498ef06e96eeeb98,Pizzeria,VeryLikelyOpen,117,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Trinity Common,43.666623,-79.316861
+4ad4c05df964a5204cf620e3,Ice Cream Parlor,VeryLikelyOpen,364,"1698 Queen St W, Scarborough ON M6R 1B3",Sneaky Dee's,43.667418,-79.312824
+4aedf32af964a52091d021e3,Bistro,VeryLikelyOpen,364,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Patty King,43.671324,-79.32719
+5d21413d5cbbb20023c57b49,Fish and Chips Shop,VeryLikelyOpen,318,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Little Jerry,43.668614,-79.317268
+4b2bd898f964a52042bc24e3,Indian Restaurant,VeryLikelyOpen,16,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Kinka Izakaya,43.67205,-79.322451
+51755dc7498ece19b7261641,Bar,LikelyOpen,280,"1471 Gerrard St E, Toronto ON M4L 2A1",Banh Mi Boys,43.672346,-79.320804
+5a81ae339deb7d369fa7f146,Burger Joint,VeryLikelyOpen,425,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Hailed Coffee,43.666763,-79.315564
+4ad887d2f964a520111221e3,Diner,VeryLikelyOpen,242,"1483 Queen St E, Toronto ON M4L 1E2",Hair of the Dog,43.665121,-79.321347
+5615b6c4498e3c32c67ad78f,Egyptian Restaurant,VeryLikelyOpen,470,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Blaze Pizza,43.671682,-79.328462
+4ab2b0b9f964a520e56b20e3,Café,VeryLikelyOpen,507,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",The Queen and Beaver Public House,43.66388,-79.326107
+537d4d6d498ec171ba22e7fe,Pizzeria,LikelyOpen,584,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Jimmy's Coffee,43.666623,-79.316861
+4b654efaf964a520aeec2ae3,Ice Cream Parlor,LikelyOpen,386,"1698 Queen St W, Scarborough ON M6R 1B3",Black Eagle,43.667418,-79.312824
+4ad4c061f964a52095f720e3,Bistro,VeryLikelyOpen,400,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Salad King,43.671324,-79.32719
+4bb942a7cf2fc9b6596ca002,Fish and Chips Shop,VeryLikelyOpen,676,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Keg Steakhouse & Bar,43.668614,-79.317268
+56f6ee66498e7f811a135ddd,Indian Restaurant,VeryLikelyOpen,353,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Roywoods,43.67205,-79.322451
+4c10f2d95a43d13a97d7174b,Bar,VeryLikelyOpen,234,"1471 Gerrard St E, Toronto ON M4L 2A1",Music Garden Cafe,43.672346,-79.320804
+53dbf8c1498e8a2753074f94,Burger Joint,VeryLikelyOpen,73,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Touti Gelati and Cafe,43.666763,-79.315564
+54490365498e78a9fe510022,Diner,VeryLikelyOpen,322,"1483 Queen St E, Toronto ON M4L 1E2",Starbucks,43.665121,-79.321347
+4ae338e1f964a520e39121e3,Egyptian Restaurant,VeryLikelyOpen,798,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Le Select Bistro,43.671682,-79.328462
+4af0c5c1f964a5200fdf21e3,Café,VeryLikelyOpen,939,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Rodney's Oyster House,43.66388,-79.326107
+4df796f1aeb7da11e1a974d4,Pizzeria,VeryLikelyOpen,977,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",SOMA chocolatemaker,43.666623,-79.316861
+544fc36c498ea63958331891,Ice Cream Parlor,VeryLikelyOpen,959,"1698 Queen St W, Scarborough ON M6R 1B3",Wilbur Mexicana,43.667418,-79.312824
+5a95ed89d1a4025c9076ec19,Bistro,VeryLikelyOpen,866,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mira Restaurant,43.671324,-79.32719
+570027be498e3f54be8ab8eb,Fish and Chips Shop,VeryLikelyOpen,372,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Tim Hortons,43.668614,-79.317268
+51755dc7498ece19b7261641,Indian Restaurant,LikelyOpen,85,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Banh Mi Boys,43.67205,-79.322451
+5a81ae339deb7d369fa7f146,Bar,VeryLikelyOpen,128,"1471 Gerrard St E, Toronto ON M4L 2A1",Hailed Coffee,43.672346,-79.320804
+537d4d6d498ec171ba22e7fe,Burger Joint,LikelyOpen,273,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Jimmy's Coffee,43.666763,-79.315564
+4ab2b0b9f964a520e56b20e3,Diner,VeryLikelyOpen,263,"1483 Queen St E, Toronto ON M4L 1E2",The Queen and Beaver Public House,43.665121,-79.321347
+4b2bd898f964a52042bc24e3,Egyptian Restaurant,VeryLikelyOpen,324,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Kinka Izakaya,43.671682,-79.328462
+4b32a8bdf964a5202d1125e3,Café,VeryLikelyOpen,229,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Barberian's Steak House,43.66388,-79.326107
+4ad4c061f964a52095f720e3,Pizzeria,VeryLikelyOpen,258,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Salad King,43.666623,-79.316861
+5615b6c4498e3c32c67ad78f,Ice Cream Parlor,VeryLikelyOpen,424,"1698 Queen St W, Scarborough ON M6R 1B3",Blaze Pizza,43.667418,-79.312824
+5db70a0c306d6b000861ac9f,Bistro,VeryLikelyOpen,249,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Neo Coffee Bar,43.671324,-79.32719
+5064c3dde4b07c5a18986283,Fish and Chips Shop,VeryLikelyOpen,333,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Five Guys Burgers & Fries,43.668614,-79.317268
+5c08474447f876002c736b68,Indian Restaurant,VeryLikelyOpen,163,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",WVRST - Union Station,43.67205,-79.322451
+5a53c6b0b0405614996330c6,Bar,VeryLikelyOpen,322,"1471 Gerrard St E, Toronto ON M4L 2A1",Mos Mos,43.672346,-79.320804
+5a4fdf56772fbc5e9fa73c7f,Burger Joint,VeryLikelyOpen,338,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Chotto Matte,43.666763,-79.315564
+4c05b0ce5753c92838e739f1,Diner,VeryLikelyOpen,128,"1483 Queen St E, Toronto ON M4L 1E2",RS - Real Sports,43.665121,-79.321347
+4c9fbdd77c096dcbfe43e1d1,Egyptian Restaurant,VeryLikelyOpen,160,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",E11Even,43.671682,-79.328462
+5669c9fd498e28dcd049abbd,Café,VeryLikelyOpen,107,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",McCafé,43.66388,-79.326107
+5a8f505eb6eedb5c284a78ad,Pizzeria,VeryLikelyOpen,418,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Walrus Pub & Beer Hall,43.666623,-79.316861
+4ad7b757f964a520ff0d21e3,Ice Cream Parlor,VeryLikelyOpen,255,"1698 Queen St W, Scarborough ON M6R 1B3",Harbour Sixty Steakhouse,43.667418,-79.312824
+5b6c842bc36588002c80a934,Bistro,VeryLikelyOpen,691,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Cafe Landwer,43.671324,-79.32719
+4ad4c05df964a5203cf620e3,Fish and Chips Shop,VeryLikelyOpen,224,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Library Bar,43.668614,-79.317268
+4b17c9f5f964a5202fc823e3,Indian Restaurant,VeryLikelyOpen,121,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Mr Jerk,43.67205,-79.322451
+50e8b903e4b04fa56858ecfe,Bar,VeryLikelyOpen,360,"1471 Gerrard St E, Toronto ON M4L 2A1",Zakkushi,43.672346,-79.320804
+4bb942a7cf2fc9b6596ca002,Burger Joint,VeryLikelyOpen,404,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Keg Steakhouse & Bar,43.666763,-79.315564
+4ae4a9baf964a520e69c21e3,Diner,VeryLikelyOpen,315,"1483 Queen St E, Toronto ON M4L 1E2",Chew Chew's Diner,43.665121,-79.321347
+4add3b20f964a520b16421e3,Egyptian Restaurant,VeryLikelyOpen,525,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",House on Parliament,43.671682,-79.328462
+4c4db6cd0d90b713fc298f78,Café,VeryLikelyOpen,218,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Red Rocket Coffee,43.66388,-79.326107
+4d2ba482068e8cfa15e7e44c,Pizzeria,VeryLikelyOpen,432,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Stout Irish Pub,43.666623,-79.316861
+5bd2379cbcbf7a0039a2d7b9,Ice Cream Parlor,VeryLikelyOpen,667,"1698 Queen St W, Scarborough ON M6R 1B3",Storm Crow Manor,43.667418,-79.312824
+4c3069603896e21eb882e590,Bistro,VeryLikelyOpen,544,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Golden Greek,43.671324,-79.32719
+4b2bd898f964a52042bc24e3,Fish and Chips Shop,VeryLikelyOpen,769,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Kinka Izakaya,43.668614,-79.317268
+4ae338e1f964a520e39121e3,Indian Restaurant,VeryLikelyOpen,483,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Le Select Bistro,43.67205,-79.322451
+54490365498e78a9fe510022,Bar,VeryLikelyOpen,277,"1471 Gerrard St E, Toronto ON M4L 2A1",Starbucks,43.672346,-79.320804
+4df796f1aeb7da11e1a974d4,Burger Joint,VeryLikelyOpen,612,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",SOMA chocolatemaker,43.666763,-79.315564
+4af0c5c1f964a5200fdf21e3,Diner,VeryLikelyOpen,603,"1483 Queen St E, Toronto ON M4L 1E2",Rodney's Oyster House,43.665121,-79.321347
+4c10f2d95a43d13a97d7174b,Egyptian Restaurant,VeryLikelyOpen,300,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Music Garden Cafe,43.671682,-79.328462
+4fcc0dd177167574f0de38d5,Café,VeryLikelyOpen,610,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Bar Hop,43.66388,-79.326107
+544fc36c498ea63958331891,Pizzeria,VeryLikelyOpen,695,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Wilbur Mexicana,43.666623,-79.316861
+4b2274c1f964a5200f4724e3,Ice Cream Parlor,VeryLikelyOpen,805,"1698 Queen St W, Scarborough ON M6R 1B3",Jimmy's Coffee,43.667418,-79.312824
+53ad5d32498ef536312ed650,Bistro,VeryLikelyOpen,35,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Starbucks,43.671324,-79.32719
+529612de11d2ab526191ccc9,Fish and Chips Shop,VeryLikelyOpen,945,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pai,43.668614,-79.317268
+587bc580e786b26b0d586aa3,Indian Restaurant,VeryLikelyOpen,158,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Film Cafe,43.67205,-79.322451
+4d13b509e3b5224b14da9143,Bar,VeryLikelyOpen,336,"1471 Gerrard St E, Toronto ON M4L 2A1",Café Pamenar,43.672346,-79.320804
+5830bf495d6ec631f622902f,Burger Joint,VeryLikelyOpen,168,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Little Pebbles,43.666763,-79.315564
+5061dbab498ee603149683e5,Diner,VeryLikelyOpen,467,"1483 Queen St E, Toronto ON M4L 1E2",Voodoo Child,43.665121,-79.321347
+4ff222e6582f33c0ee007ba7,Egyptian Restaurant,VeryLikelyOpen,100,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Handlebar,43.671682,-79.328462
+52c5dd8d498e25dee9f19457,Café,VeryLikelyOpen,522,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Ramen Isshin,43.66388,-79.326107
+4ad4c05df964a5204cf620e3,Pizzeria,VeryLikelyOpen,544,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sneaky Dee's,43.666623,-79.316861
+5b233c5595d986002c9e8788,Ice Cream Parlor,VeryLikelyOpen,646,"1698 Queen St W, Scarborough ON M6R 1B3",Drom Taberna,43.667418,-79.312824
+4edeae9d61af80fe89aa3f54,Bistro,VeryLikelyOpen,687,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Banh Mi Boys,43.671324,-79.32719
+55175269498ef06e96eeeb98,Fish and Chips Shop,VeryLikelyOpen,325,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Trinity Common,43.668614,-79.317268
+5963b3e52be425495a1ed8a1,Indian Restaurant,VeryLikelyOpen,509,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Sugo,43.67205,-79.322451
+51572dc9e4b0b5f7ce9d0e13,Bar,VeryLikelyOpen,687,"1471 Gerrard St E, Toronto ON M4L 2A1",Takht-e Tavoos,43.672346,-79.320804
+55208e01498e31eeac5ff582,Burger Joint,VeryLikelyOpen,685,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Burdock,43.666763,-79.315564
+549a5a35498efecb7e666506,Diner,VeryLikelyOpen,655,"1483 Queen St E, Toronto ON M4L 1E2",The Gaslight,43.665121,-79.321347
+4c0003d7f61ea593c529eb13,Egyptian Restaurant,LikelyOpen,615,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Linh Restaurant,43.671682,-79.328462
+52348da911d2fa119be56f12,Café,LikelyOpen,833,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",La Cubana,43.66388,-79.326107
+4ad8fc3df964a520c31621e3,Pizzeria,VeryLikelyOpen,849,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Inter-Ster Restaurant,43.666623,-79.316861
+4ada24e2f964a5200d1f21e3,Ice Cream Parlor,Unsure,849,"1698 Queen St W, Scarborough ON M6R 1B3",Arabesque Middle Eastern Foods,43.667418,-79.312824
+4da50b29a86ed93def2fb1d9,Bistro,VeryLikelyOpen,923,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Barque Smokehouse,43.671324,-79.32719
+4f5cbe6fe4b01219ac4fbaff,Fish and Chips Shop,Unsure,763,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sunny Joes,43.668614,-79.317268
+4f5cbe6fe4b01219ac4fbaff,Indian Restaurant,Unsure,402,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Sunny Joes,43.67205,-79.322451
+4da50b29a86ed93def2fb1d9,Bar,VeryLikelyOpen,607,"1471 Gerrard St E, Toronto ON M4L 2A1",Barque Smokehouse,43.672346,-79.320804
+4ad8fc3df964a520c31621e3,Burger Joint,VeryLikelyOpen,594,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Inter-Ster Restaurant,43.666763,-79.315564
+52348da911d2fa119be56f12,Diner,LikelyOpen,631,"1483 Queen St E, Toronto ON M4L 1E2",La Cubana,43.665121,-79.321347
+525714e411d224022aaeb01e,Egyptian Restaurant,VeryLikelyOpen,500,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",I Deal Coffee,43.671682,-79.328462
+51572dc9e4b0b5f7ce9d0e13,Café,VeryLikelyOpen,825,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Takht-e Tavoos,43.66388,-79.326107
+549a5a35498efecb7e666506,Pizzeria,VeryLikelyOpen,822,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",The Gaslight,43.666623,-79.316861
+4c0003d7f61ea593c529eb13,Ice Cream Parlor,LikelyOpen,741,"1698 Queen St W, Scarborough ON M6R 1B3",Linh Restaurant,43.667418,-79.312824
+5963b3e52be425495a1ed8a1,Bistro,VeryLikelyOpen,843,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Sugo,43.671324,-79.32719
+4b5df38ef964a520aa7529e3,Fish and Chips Shop,VeryLikelyOpen,772,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Cafe Polonez,43.668614,-79.317268
+51572dc9e4b0b5f7ce9d0e13,Indian Restaurant,VeryLikelyOpen,473,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Takht-e Tavoos,43.67205,-79.322451
+4c0003d7f61ea593c529eb13,Bar,LikelyOpen,389,"1471 Gerrard St E, Toronto ON M4L 2A1",Linh Restaurant,43.672346,-79.320804
+568efc0f498e8eee920ff488,Burger Joint,VeryLikelyOpen,256,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Swan Dive,43.666763,-79.315564
+4ada24e2f964a5200d1f21e3,Diner,Unsure,647,"1483 Queen St E, Toronto ON M4L 1E2",Arabesque Middle Eastern Foods,43.665121,-79.321347
+582dbcfb04ab1a5d8145a6cf,Egyptian Restaurant,Unsure,307,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Safehouse Coffee,43.671682,-79.328462
+55208e01498e31eeac5ff582,Café,VeryLikelyOpen,917,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Burdock,43.66388,-79.326107
+4f5cbe6fe4b01219ac4fbaff,Pizzeria,Unsure,608,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sunny Joes,43.666623,-79.316861
+56418c69498ec00425302f6a,Ice Cream Parlor,LikelyOpen,993,"1698 Queen St W, Scarborough ON M6R 1B3",Imanishi Japanese Kitchen,43.667418,-79.312824
+525714e411d224022aaeb01e,Bistro,VeryLikelyOpen,665,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",I Deal Coffee,43.671324,-79.32719
+563c1b95cd108ec5a5dd5dce,Fish and Chips Shop,VeryLikelyOpen,677,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Antler Kitchen & Bar,43.668614,-79.317268
+4c9fb4d154c8a1cd0482994b,Indian Restaurant,VeryLikelyOpen,73,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Caledonian,43.67205,-79.322451
+514a4961e4b004a36b8d9ea0,Bar,VeryLikelyOpen,157,"1471 Gerrard St E, Toronto ON M4L 2A1",Bar Isabel,43.672346,-79.320804
+55746d14498e3cef911f38bc,Burger Joint,VeryLikelyOpen,59,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Starving Artist,43.666763,-79.315564
+5a4fe20a286fda0166f6b594,Diner,VeryLikelyOpen,421,"1483 Queen St E, Toronto ON M4L 1E2",Giulietta,43.665121,-79.321347
+54c46166498edeaa806cabc8,Egyptian Restaurant,VeryLikelyOpen,554,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hanmoto,43.671682,-79.328462
+4ada6d36f964a520802221e3,Café,VeryLikelyOpen,633,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Pizzeria Libretto,43.66388,-79.326107
+56418c69498ec00425302f6a,Pizzeria,LikelyOpen,633,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Imanishi Japanese Kitchen,43.666623,-79.316861
+4af369d0f964a52060ed21e3,Ice Cream Parlor,VeryLikelyOpen,672,"1698 Queen St W, Scarborough ON M6R 1B3",Foxley,43.667418,-79.312824
+57d0b57b498e640a72cbbe26,Bistro,VeryLikelyOpen,644,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Birreria Volo,43.671324,-79.32719
+4fe54620e4b067dfbe1dc838,Fish and Chips Shop,VeryLikelyOpen,577,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Get Well,43.668614,-79.317268
+4e20e9d9e4cdf685918068b5,Indian Restaurant,VeryLikelyOpen,469,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Mugshot Tavern,43.67205,-79.322451
+50d4940de4b0d27a203d4b1e,Bar,LikelyOpen,724,"1471 Gerrard St E, Toronto ON M4L 2A1",Cabin Fever Collective,43.672346,-79.320804
+541da101498e3a898ac95032,Burger Joint,VeryLikelyOpen,937,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Outpost Coffee Roasters,43.666763,-79.315564
+4c99374b292a6dcb5f72c476,Diner,LikelyOpen,813,"1483 Queen St E, Toronto ON M4L 1E2",Osaka Sushi Japanese Restaurant,43.665121,-79.321347
+4af74251f964a520ba0722e3,Egyptian Restaurant,VeryLikelyOpen,903,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Starbucks,43.671682,-79.328462
+4ae35797f964a520bc9321e3,Café,VeryLikelyOpen,867,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",King Slice,43.66388,-79.326107
+525e1812498e2c14b4d80b8b,Pizzeria,VeryLikelyOpen,998,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Bukhara Grill,43.666623,-79.316861
+4bcce46b511f952108deb3c7,Ice Cream Parlor,VeryLikelyOpen,480,"1698 Queen St W, Scarborough ON M6R 1B3",Pizza Hut,43.667418,-79.312824
+4ba3df12f964a520a96838e3,Bistro,VeryLikelyOpen,508,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Subway,43.671324,-79.32719
+4bead677415e20a1c380e5bb,Fish and Chips Shop,LikelyOpen,964,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",China Island,43.668614,-79.317268
+4adf2fb8f964a520267821e3,Indian Restaurant,VeryLikelyOpen,865,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Cheese Boutique,43.67205,-79.322451
+4bde066ee75c0f47779cc603,Bar,VeryLikelyOpen,705,"1471 Gerrard St E, Toronto ON M4L 2A1",Sunnyside Pavilion Cafe,43.672346,-79.320804
+61dcb71a42c01d64845b3b3d,Burger Joint,LikelyOpen,783,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",CB Bottega,43.666763,-79.315564
+4f8a0462e4b0cec3abcfb25d,Diner,LikelyOpen,901,"1483 Queen St E, Toronto ON M4L 1E2",Palace Pier Rooftop Club,43.665121,-79.321347
+646027c0ddc0d92a4aff7c0c,Egyptian Restaurant,VeryLikelyOpen,949,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Veloute,43.671682,-79.328462
+4e20e9d9e4cdf685918068b5,Indian Restaurant,VeryLikelyOpen,38,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Mugshot Tavern,43.67205,-79.322451
+50d4940de4b0d27a203d4b1e,Bar,LikelyOpen,293,"1471 Gerrard St E, Toronto ON M4L 2A1",Cabin Fever Collective,43.672346,-79.320804
+541da101498e3a898ac95032,Burger Joint,VeryLikelyOpen,508,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Outpost Coffee Roasters,43.666763,-79.315564
+4c99374b292a6dcb5f72c476,Diner,LikelyOpen,383,"1483 Queen St E, Toronto ON M4L 1E2",Osaka Sushi Japanese Restaurant,43.665121,-79.321347
+52348da911d2fa119be56f12,Egyptian Restaurant,LikelyOpen,836,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",La Cubana,43.671682,-79.328462
+4ae35797f964a520bc9321e3,Café,VeryLikelyOpen,437,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",King Slice,43.66388,-79.326107
+4ad8fc3df964a520c31621e3,Pizzeria,VeryLikelyOpen,941,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Inter-Ster Restaurant,43.666623,-79.316861
+4cb8910976ad9c744951e5cb,Ice Cream Parlor,Unsure,781,"1698 Queen St W, Scarborough ON M6R 1B3",Hula Girl Espresso Boutique,43.667418,-79.312824
+4ad4c05df964a52068f620e3,Bistro,VeryLikelyOpen,830,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Local,43.671324,-79.32719
+4ba3df12f964a520a96838e3,Fish and Chips Shop,VeryLikelyOpen,69,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Subway,43.668614,-79.317268
+4adf2fb8f964a520267821e3,Indian Restaurant,VeryLikelyOpen,721,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Cheese Boutique,43.67205,-79.322451
+4bde066ee75c0f47779cc603,Bar,VeryLikelyOpen,944,"1471 Gerrard St E, Toronto ON M4L 2A1",Sunnyside Pavilion Cafe,43.672346,-79.320804
+61dcb71a42c01d64845b3b3d,Burger Joint,LikelyOpen,621,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",CB Bottega,43.666763,-79.315564
+4f8a0462e4b0cec3abcfb25d,Diner,LikelyOpen,658,"1483 Queen St E, Toronto ON M4L 1E2",Palace Pier Rooftop Club,43.665121,-79.321347
+646027c0ddc0d92a4aff7c0c,Egyptian Restaurant,VeryLikelyOpen,708,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Veloute,43.671682,-79.328462
+5b55f1c1b9a5a8002c6b9b86,Indian Restaurant,VeryLikelyOpen,917,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Brodflour,43.67205,-79.322451
+4ad4c05ff964a52022f720e3,Bar,VeryLikelyOpen,419,"1471 Gerrard St E, Toronto ON M4L 2A1",Medieval Times Dinner & Tournament,43.672346,-79.320804
+5374b6f4498e371df1066313,Burger Joint,VeryLikelyOpen,956,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Louie - Craft Coffee,43.666763,-79.315564
+61ab6cf89ab3f3549ea7fd97,Diner,LikelyOpen,801,"1483 Queen St E, Toronto ON M4L 1E2",The Originals Dining Lounge,43.665121,-79.321347
+4b632632f964a52085662ae3,Egyptian Restaurant,VeryLikelyOpen,941,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Caffino,43.671682,-79.328462
+4ae094a7f964a5208f8021e3,Café,LikelyOpen,861,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",SCHOOL Restaurant,43.66388,-79.326107
+4c8b86812e3337042097cd41,Pizzeria,VeryLikelyOpen,781,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Royal Canadian Legion Branch 344,43.666623,-79.316861
+4c4b43e5712ac928403eaa6c,Ice Cream Parlor,VeryLikelyOpen,944,"1698 Queen St W, Scarborough ON M6R 1B3",Food Building,43.667418,-79.312824
+4b719ec8f964a52096512de3,Bistro,VeryLikelyOpen,873,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Subway,43.671324,-79.32719
+4ae5d93ef964a52083a221e3,Fish and Chips Shop,VeryLikelyOpen,855,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pho Asia 21,43.668614,-79.317268
+51e341c5498e5e2035539b66,Indian Restaurant,LikelyOpen,408,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Food & Liquor,43.67205,-79.322451
+4ae4be84f964a520af9d21e3,Bar,LikelyOpen,230,"1471 Gerrard St E, Toronto ON M4L 2A1",Easy Restaurant,43.672346,-79.320804
+4baa7b04f964a520ca6d3ae3,Burger Joint,VeryLikelyOpen,331,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Amico's Pizza,43.666763,-79.315564
+5adcfaff9b047316b674fc2b,Diner,VeryLikelyOpen,328,"1483 Queen St E, Toronto ON M4L 1E2",Craig's Cookies,43.665121,-79.321347
+4bf80b445efe2d7f61f96934,Egyptian Restaurant,VeryLikelyOpen,428,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Shangrila,43.671682,-79.328462
+54838585498e1787e915457d,Café,VeryLikelyOpen,840,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Loga's Corner,43.66388,-79.326107
+61ab6cf89ab3f3549ea7fd97,Pizzeria,LikelyOpen,623,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",The Originals Dining Lounge,43.666623,-79.316861
+4b5df38ef964a520aa7529e3,Ice Cream Parlor,VeryLikelyOpen,974,"1698 Queen St W, Scarborough ON M6R 1B3",Cafe Polonez,43.667418,-79.312824
+4aecbbb0f964a520bcca21e3,Bistro,LikelyOpen,828,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mother India,43.671324,-79.32719
+6042d3ce8d081e11da7b5de8,Fish and Chips Shop,VeryLikelyOpen,255,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1","Paddler, Thai Boat Noodles",43.668614,-79.317268
+52348da911d2fa119be56f12,Indian Restaurant,LikelyOpen,281,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",La Cubana,43.67205,-79.322451
+50d4940de4b0d27a203d4b1e,Bar,LikelyOpen,485,"1471 Gerrard St E, Toronto ON M4L 2A1",Cabin Fever Collective,43.672346,-79.320804
+541da101498e3a898ac95032,Burger Joint,VeryLikelyOpen,370,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Outpost Coffee Roasters,43.666763,-79.315564
+4ad8fc3df964a520c31621e3,Diner,VeryLikelyOpen,410,"1483 Queen St E, Toronto ON M4L 1E2",Inter-Ster Restaurant,43.665121,-79.321347
+549a5a35498efecb7e666506,Egyptian Restaurant,VeryLikelyOpen,502,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",The Gaslight,43.671682,-79.328462
+4da50b29a86ed93def2fb1d9,Café,VeryLikelyOpen,612,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Barque Smokehouse,43.66388,-79.326107
+4c99374b292a6dcb5f72c476,Pizzeria,LikelyOpen,430,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Osaka Sushi Japanese Restaurant,43.666623,-79.316861
+4e20e9d9e4cdf685918068b5,Ice Cream Parlor,VeryLikelyOpen,694,"1698 Queen St W, Scarborough ON M6R 1B3",The Mugshot Tavern,43.667418,-79.312824
+4ae35797f964a520bc9321e3,Bistro,VeryLikelyOpen,396,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",King Slice,43.671324,-79.32719
+5963b3e52be425495a1ed8a1,Fish and Chips Shop,VeryLikelyOpen,900,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sugo,43.668614,-79.317268
+4aec6b7df964a520e0c621e3,Indian Restaurant,VeryLikelyOpen,19,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Starbucks,43.67205,-79.322451
+51819802498ee3c6834b8e0b,Bar,VeryLikelyOpen,74,"1471 Gerrard St E, Toronto ON M4L 2A1",De Mello Palheta Coffee Roasters,43.672346,-79.320804
+502e3a9e90e75889381c35ef,Burger Joint,LikelyOpen,432,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Ritz Caribbean Foods,43.666763,-79.315564
+5fc4397fdc8b462813985533,Diner,VeryLikelyOpen,300,"1483 Queen St E, Toronto ON M4L 1E2",Pai Uptown,43.665121,-79.321347
+4ad4c061f964a520a2f720e3,Egyptian Restaurant,VeryLikelyOpen,209,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Grazie Ristorante,43.671682,-79.328462
+5f47eddf704690529cef554e,Café,VeryLikelyOpen,211,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Stock T.C,43.66388,-79.326107
+52c9eb15498e8c2d586fffea,Pizzeria,VeryLikelyOpen,170,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sip Wine Bar,43.666623,-79.316861
+544d3b30498e333e2fa24c53,Ice Cream Parlor,VeryLikelyOpen,600,"1698 Queen St W, Scarborough ON M6R 1B3",Istanbul Cafe & Espresso Bar,43.667418,-79.312824
+521e0c6c04939a8ad55d93d3,Bistro,LikelyOpen,506,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Fresh,43.671324,-79.32719
+4ad772faf964a520a70a21e3,Fish and Chips Shop,VeryLikelyOpen,618,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Keg Steakhouse + Bar,43.668614,-79.317268
+5cb0d23175dcb7002cb5e3ad,Indian Restaurant,VeryLikelyOpen,141,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Koh Lipe Thai Kitchen,43.67205,-79.322451
+59f784dd28122f14f9d5d63d,Bar,VeryLikelyOpen,603,"1471 Gerrard St E, Toronto ON M4L 2A1",HotBlack Coffee,43.672346,-79.320804
+537d4d6d498ec171ba22e7fe,Burger Joint,LikelyOpen,624,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Jimmy's Coffee,43.666763,-79.315564
+509bb871e4b09c7ac93f6642,Diner,VeryLikelyOpen,691,"1483 Queen St E, Toronto ON M4L 1E2",JaBistro,43.665121,-79.321347
+5a81ae339deb7d369fa7f146,Egyptian Restaurant,VeryLikelyOpen,780,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hailed Coffee,43.671682,-79.328462
+5d782433f6e3190008b1a914,Café,VeryLikelyOpen,567,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Gyubee Japanese Grill,43.66388,-79.326107
+529612de11d2ab526191ccc9,Pizzeria,VeryLikelyOpen,857,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Pai,43.666623,-79.316861
+4edeae9d61af80fe89aa3f54,Ice Cream Parlor,VeryLikelyOpen,828,"1698 Queen St W, Scarborough ON M6R 1B3",Banh Mi Boys,43.667418,-79.312824
+4ab2b0b9f964a520e56b20e3,Bistro,VeryLikelyOpen,726,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Queen and Beaver Public House,43.671324,-79.32719
+4ad76dadf964a520530a21e3,Fish and Chips Shop,VeryLikelyOpen,656,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Dark Horse Espresso Bar,43.668614,-79.317268
+4bb75e0f6edc76b03212321c,Indian Restaurant,VeryLikelyOpen,335,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Serano Bakery,43.67205,-79.322451
+4afdfadff964a520a52c22e3,Bar,VeryLikelyOpen,801,"1471 Gerrard St E, Toronto ON M4L 2A1",Mezes,43.672346,-79.320804
+502826ffe4b039d48c722f78,Burger Joint,VeryLikelyOpen,821,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Athens Restaurant,43.666763,-79.315564
+57799e91498e189817c91ead,Diner,VeryLikelyOpen,856,"1483 Queen St E, Toronto ON M4L 1E2",La Diperie,43.665121,-79.321347
+4af4e0d0f964a5202ff721e3,Egyptian Restaurant,VeryLikelyOpen,965,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",7 Numbers,43.671682,-79.328462
+5bca3585838e59002c9b1919,Café,VeryLikelyOpen,954,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cinnaholic,43.66388,-79.326107
+4be6ef2dd4f7c9b6a4372720,Pizzeria,VeryLikelyOpen,953,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Ritz Restaurant,43.666623,-79.316861
+4ae24088f964a5206b8c21e3,Ice Cream Parlor,VeryLikelyOpen,914,"1698 Queen St W, Scarborough ON M6R 1B3",Auld Spot Pub,43.667418,-79.312824
+4b64ce4af964a52084d12ae3,Bistro,VeryLikelyOpen,770,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Christina's on the Danforth,43.671324,-79.32719
+4aeb268bf964a52006bf21e3,Fish and Chips Shop,VeryLikelyOpen,832,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Messini Authentic Gyros,43.668614,-79.317268
+4af30f13f964a52030ea21e3,Indian Restaurant,VeryLikelyOpen,98,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Trattoria Nervosa,43.67205,-79.322451
+4bba7d86cf2fc9b62ba6a102,Bar,VeryLikelyOpen,180,"1471 Gerrard St E, Toronto ON M4L 2A1",Summer's Sweet Memories Inc,43.672346,-79.320804
+506f75b5e4b010c1ae9b2b77,Burger Joint,VeryLikelyOpen,127,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Café Boulud,43.666763,-79.315564
+4f9b0e84e4b0d04dbf9767ee,Diner,VeryLikelyOpen,228,"1483 Queen St E, Toronto ON M4L 1E2",The Oxley,43.665121,-79.321347
+5b720ce2e17910002c42733f,Egyptian Restaurant,VeryLikelyOpen,278,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Alobar Yorkville,43.671682,-79.328462
+524c6ea511d207bb0817c28e,Café,LikelyOpen,266,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Nespresso Boutique Bar,43.66388,-79.326107
+4adca9f1f964a5207b2e21e3,Pizzeria,VeryLikelyOpen,149,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Sushi Inn,43.666623,-79.316861
+59ecf741da2e006b9e11a3d3,Ice Cream Parlor,VeryLikelyOpen,623,"1698 Queen St W, Scarborough ON M6R 1B3",The Alley,43.667418,-79.312824
+502441e5e4b069d5af657ee2,Bistro,LikelyOpen,292,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Balzac's Coffee,43.671324,-79.32719
+4ad88fa9f964a520511221e3,Fish and Chips Shop,VeryLikelyOpen,731,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Black Camel,43.668614,-79.317268
+5620d090498e997b0002172e,Indian Restaurant,VeryLikelyOpen,262,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Simit & Chai Co,43.67205,-79.322451
+4ac378c8f964a5206c9b20e3,Bar,VeryLikelyOpen,170,"1471 Gerrard St E, Toronto ON M4L 2A1",Old York Bar & Grill,43.672346,-79.320804
+4c10116ace57c928bd4781d2,Burger Joint,VeryLikelyOpen,312,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Beast Restaurant,43.666763,-79.315564
+4b2274c1f964a5200f4724e3,Diner,VeryLikelyOpen,543,"1483 Queen St E, Toronto ON M4L 1E2",Jimmy's Coffee,43.665121,-79.321347
+544fc36c498ea63958331891,Egyptian Restaurant,VeryLikelyOpen,596,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Wilbur Mexicana,43.671682,-79.328462
+4dcb3ddefa76d745f0514d24,Café,VeryLikelyOpen,432,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",WVRST,43.66388,-79.326107
+5a2f13e28ad62e3cdea5e26f,Pizzeria,VeryLikelyOpen,541,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Chubby's Jamaican Kitchen,43.666623,-79.316861
+4ade77f6f964a5200c7621e3,Ice Cream Parlor,VeryLikelyOpen,652,"1698 Queen St W, Scarborough ON M6R 1B3",Terroni,43.667418,-79.312824
+57125773498ec1010840bf7a,Bistro,LikelyOpen,568,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Forget Me Not Cafe,43.671324,-79.32719
+4ae338e1f964a520e39121e3,Fish and Chips Shop,VeryLikelyOpen,676,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Le Select Bistro,43.668614,-79.317268
+4ae338e1f964a520e39121e3,Indian Restaurant,VeryLikelyOpen,15,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Le Select Bistro,43.67205,-79.322451
+4af0c5c1f964a5200fdf21e3,Bar,VeryLikelyOpen,126,"1471 Gerrard St E, Toronto ON M4L 2A1",Rodney's Oyster House,43.672346,-79.320804
+4df796f1aeb7da11e1a974d4,Burger Joint,VeryLikelyOpen,182,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",SOMA chocolatemaker,43.666763,-79.315564
+544fc36c498ea63958331891,Diner,VeryLikelyOpen,211,"1483 Queen St E, Toronto ON M4L 1E2",Wilbur Mexicana,43.665121,-79.321347
+584054342980db526bddd716,Egyptian Restaurant,VeryLikelyOpen,125,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Baro,43.671682,-79.328462
+4b2274c1f964a5200f4724e3,Café,VeryLikelyOpen,334,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Jimmy's Coffee,43.66388,-79.326107
+4fcc0dd177167574f0de38d5,Pizzeria,VeryLikelyOpen,315,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Bar Hop,43.666623,-79.316861
+5a2f13e28ad62e3cdea5e26f,Ice Cream Parlor,VeryLikelyOpen,359,"1698 Queen St W, Scarborough ON M6R 1B3",Chubby's Jamaican Kitchen,43.667418,-79.312824
+57125773498ec1010840bf7a,Bistro,LikelyOpen,389,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Forget Me Not Cafe,43.671324,-79.32719
+4edeae9d61af80fe89aa3f54,Fish and Chips Shop,VeryLikelyOpen,535,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Banh Mi Boys,43.668614,-79.317268
+59f784dd28122f14f9d5d63d,Indian Restaurant,VeryLikelyOpen,466,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",HotBlack Coffee,43.67205,-79.322451
+509bb871e4b09c7ac93f6642,Bar,VeryLikelyOpen,549,"1471 Gerrard St E, Toronto ON M4L 2A1",JaBistro,43.672346,-79.320804
+5d782433f6e3190008b1a914,Burger Joint,VeryLikelyOpen,379,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Gyubee Japanese Grill,43.666763,-79.315564
+537d4d6d498ec171ba22e7fe,Diner,LikelyOpen,536,"1483 Queen St E, Toronto ON M4L 1E2",Jimmy's Coffee,43.665121,-79.321347
+529612de11d2ab526191ccc9,Egyptian Restaurant,VeryLikelyOpen,736,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Pai,43.671682,-79.328462
+4ab2b0b9f964a520e56b20e3,Café,VeryLikelyOpen,584,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",The Queen and Beaver Public House,43.66388,-79.326107
+50322b6ae4b09116a296568c,Pizzeria,VeryLikelyOpen,686,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Soho House,43.666623,-79.316861
+5b6c842bc36588002c80a934,Ice Cream Parlor,VeryLikelyOpen,722,"1698 Queen St W, Scarborough ON M6R 1B3",Cafe Landwer,43.667418,-79.312824
+4ad69511f964a520e40721e3,Bistro,VeryLikelyOpen,666,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Keg Steakhouse + Bar,43.671324,-79.32719
+51755dc7498ece19b7261641,Fish and Chips Shop,LikelyOpen,808,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Banh Mi Boys,43.668614,-79.317268
+4b58a308f964a520db6228e3,Indian Restaurant,LikelyOpen,95,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Cobs Bread,43.67205,-79.322451
+4df15e3c1f6e818dadf7afc0,Bar,VeryLikelyOpen,157,"1471 Gerrard St E, Toronto ON M4L 2A1",Fresh on Bloor,43.672346,-79.320804
+5707bcb9498e709b544e20b2,Burger Joint,VeryLikelyOpen,378,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Her Father's Cider Bar + Kitchen,43.666763,-79.315564
+5362c366498e602fbe1db395,Diner,VeryLikelyOpen,363,"1483 Queen St E, Toronto ON M4L 1E2",Yasu,43.665121,-79.321347
+4ad4c05cf964a520cdf520e3,Egyptian Restaurant,VeryLikelyOpen,485,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Insomnia Restaurant and Lounge,43.671682,-79.328462
+57817461498e4ac40d24a6d6,Café,VeryLikelyOpen,292,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Crafty Coyote,43.66388,-79.326107
+56eb72e3498eefb98d82274b,Pizzeria,VeryLikelyOpen,363,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Piano Piano,43.666623,-79.316861
+4aec4c24f964a520e9c521e3,Ice Cream Parlor,VeryLikelyOpen,372,"1698 Queen St W, Scarborough ON M6R 1B3",Harbord Bakery Ltd,43.667418,-79.312824
+4c7be89283a7bfb7637d8ff8,Bistro,VeryLikelyOpen,665,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Snakes & Lattes,43.671324,-79.32719
+5a9ae543b6eedb376f9a13ed,Fish and Chips Shop,VeryLikelyOpen,663,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Rustle & Still Café,43.668614,-79.317268
+4f5a855be4b0a4baa1ae0063,Indian Restaurant,VeryLikelyOpen,346,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Tori's Bakeshop,43.67205,-79.322451
+4b37c839f964a5200e4625e3,Bar,VeryLikelyOpen,542,"1471 Gerrard St E, Toronto ON M4L 2A1",Ed's Real Scoop,43.672346,-79.320804
+4e261a1118a81b3b73a9e1e9,Burger Joint,VeryLikelyOpen,408,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Veloute Bistro & Catering,43.666763,-79.315564
+4ad795aff964a520740c21e3,Diner,VeryLikelyOpen,621,"1483 Queen St E, Toronto ON M4L 1E2",Remarkable Bean Tea & Coffee Co,43.665121,-79.321347
+51e2a41f498ec07b5f39be58,Egyptian Restaurant,VeryLikelyOpen,643,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Bagels on Fire,43.671682,-79.328462
+4b58eeb6f964a520e37328e3,Café,LikelyOpen,918,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Delina Restaurant,43.66388,-79.326107
+4ae33773f964a520ca9121e3,Pizzeria,VeryLikelyOpen,271,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Beacher Cafe,43.666623,-79.316861
+4bd36093046076b0ecf17571,Ice Cream Parlor,VeryLikelyOpen,55,"1698 Queen St W, Scarborough ON M6R 1B3",Castro's Lounge,43.667418,-79.312824
+4caf386e75ebb60c8b5dbaad,Bistro,Unsure,118,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Pippins Tea Co,43.671324,-79.32719
+5aa5509cbed48336116ed8a8,Fish and Chips Shop,VeryLikelyOpen,346,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Green Eggplant Mediterranean Grill,43.668614,-79.317268
+59172e0169e77b035cdbe7bd,Indian Restaurant,LikelyOpen,41,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Brett's Ice Cream,43.67205,-79.322451
+4c1169396e5dc9b61b10b02d,Bar,VeryLikelyOpen,265,"1471 Gerrard St E, Toronto ON M4L 2A1",The Burger's Priest,43.672346,-79.320804
+4b510060f964a520e93c27e3,Burger Joint,VeryLikelyOpen,390,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Starbucks,43.666763,-79.315564
+5859d15c1d21ba53f2f9b4ef,Diner,VeryLikelyOpen,896,"1483 Queen St E, Toronto ON M4L 1E2",Lake Inez,43.665121,-79.321347
+4ae0c7a8f964a520638221e3,Egyptian Restaurant,VeryLikelyOpen,976,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Udupi Palace,43.671682,-79.328462
+4ba0153bf964a520995837e3,Café,VeryLikelyOpen,240,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Casa Di Giorgios,43.66388,-79.326107
+4b942922f964a520f16b34e3,Pizzeria,LikelyOpen,422,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",British Style Fish & Chips,43.666623,-79.316861
+4fd52f42e4b0b916eb02ab1b,Ice Cream Parlor,LikelyOpen,350,"1698 Queen St W, Scarborough ON M6R 1B3",O Sushi,43.667418,-79.312824
+5c4228e1e17910002cd1a07e,Bistro,VeryLikelyOpen,839,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Glory Hole Doughnuts,43.671324,-79.32719
+4aec7b4df964a520b0c721e3,Fish and Chips Shop,LikelyOpen,369,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Zane Patisserie,43.668614,-79.317268
+4f5a855be4b0a4baa1ae0063,Indian Restaurant,VeryLikelyOpen,328,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Tori's Bakeshop,43.67205,-79.322451
+4b37c839f964a5200e4625e3,Bar,VeryLikelyOpen,374,"1471 Gerrard St E, Toronto ON M4L 2A1",Ed's Real Scoop,43.672346,-79.320804
+4ad795aff964a520740c21e3,Burger Joint,VeryLikelyOpen,415,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Remarkable Bean Tea & Coffee Co,43.666763,-79.315564
+51e2a41f498ec07b5f39be58,Diner,VeryLikelyOpen,429,"1483 Queen St E, Toronto ON M4L 1E2",Bagels on Fire,43.665121,-79.321347
+4e261a1118a81b3b73a9e1e9,Egyptian Restaurant,VeryLikelyOpen,330,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Veloute Bistro & Catering,43.671682,-79.328462
+51fd37b5498e5b11f3af7068,Café,VeryLikelyOpen,370,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Xola,43.66388,-79.326107
+4b79d0c5f964a520ef132fe3,Pizzeria,LikelyOpen,732,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",ViVetha Bistro - Queen St. E.,43.666623,-79.316861
+4ae33773f964a520ca9121e3,Ice Cream Parlor,VeryLikelyOpen,343,"1698 Queen St W, Scarborough ON M6R 1B3",Beacher Cafe,43.667418,-79.312824
+587bae87286804584acd2a7a,Bistro,Unsure,703,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Isabella's Boutique Restaurant,43.671324,-79.32719
+4b467238f964a520402126e3,Fish and Chips Shop,LikelyOpen,542,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Fill Station Sports Bar,43.668614,-79.317268
+4f5a855be4b0a4baa1ae0063,Indian Restaurant,VeryLikelyOpen,118,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Tori's Bakeshop,43.67205,-79.322451
+4b37c839f964a5200e4625e3,Bar,VeryLikelyOpen,81,"1471 Gerrard St E, Toronto ON M4L 2A1",Ed's Real Scoop,43.672346,-79.320804
+4e261a1118a81b3b73a9e1e9,Burger Joint,VeryLikelyOpen,57,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Veloute Bistro & Catering,43.666763,-79.315564
+4ad795aff964a520740c21e3,Diner,VeryLikelyOpen,159,"1483 Queen St E, Toronto ON M4L 1E2",Remarkable Bean Tea & Coffee Co,43.665121,-79.321347
+51e2a41f498ec07b5f39be58,Egyptian Restaurant,VeryLikelyOpen,181,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Bagels on Fire,43.671682,-79.328462
+5286b7dd498e8b747c1dfe71,Café,LikelyOpen,880,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",The Beech Tree,43.66388,-79.326107
+4b79d0c5f964a520ef132fe3,Pizzeria,LikelyOpen,564,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",ViVetha Bistro - Queen St. E.,43.666623,-79.316861
+4ae33773f964a520ca9121e3,Ice Cream Parlor,VeryLikelyOpen,193,"1698 Queen St W, Scarborough ON M6R 1B3",Beacher Cafe,43.667418,-79.312824
+587bae87286804584acd2a7a,Bistro,Unsure,523,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Isabella's Boutique Restaurant,43.671324,-79.32719
+4b083628f964a5205f0623e3,Fish and Chips Shop,VeryLikelyOpen,889,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",The Feathers Pub,43.668614,-79.317268
+54490365498e78a9fe510022,Indian Restaurant,VeryLikelyOpen,87,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Starbucks,43.67205,-79.322451
+4c10f2d95a43d13a97d7174b,Bar,VeryLikelyOpen,158,"1471 Gerrard St E, Toronto ON M4L 2A1",Music Garden Cafe,43.672346,-79.320804
+4ae338e1f964a520e39121e3,Burger Joint,VeryLikelyOpen,692,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Le Select Bistro,43.666763,-79.315564
+4df796f1aeb7da11e1a974d4,Diner,VeryLikelyOpen,818,"1483 Queen St E, Toronto ON M4L 1E2",SOMA chocolatemaker,43.665121,-79.321347
+4af0c5c1f964a5200fdf21e3,Egyptian Restaurant,VeryLikelyOpen,811,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Rodney's Oyster House,43.671682,-79.328462
+5952cf02829b0c59fa430f63,Café,VeryLikelyOpen,506,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",The Rec Room,43.66388,-79.326107
+4fcc0dd177167574f0de38d5,Pizzeria,VeryLikelyOpen,800,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Bar Hop,43.666623,-79.316861
+544fc36c498ea63958331891,Ice Cream Parlor,VeryLikelyOpen,902,"1698 Queen St W, Scarborough ON M6R 1B3",Wilbur Mexicana,43.667418,-79.312824
+4b2274c1f964a5200f4724e3,Bistro,VeryLikelyOpen,1009,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Jimmy's Coffee,43.671324,-79.32719
+562922be498e2c6aad0e6091,Fish and Chips Shop,VeryLikelyOpen,761,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Evviva Breakfast Restaurant,43.668614,-79.317268
+4c1169396e5dc9b61b10b02d,Indian Restaurant,VeryLikelyOpen,440,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Burger's Priest,43.67205,-79.322451
+59172e0169e77b035cdbe7bd,Bar,LikelyOpen,530,"1471 Gerrard St E, Toronto ON M4L 2A1",Brett's Ice Cream,43.672346,-79.320804
+4fd52f42e4b0b916eb02ab1b,Burger Joint,LikelyOpen,448,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",O Sushi,43.666763,-79.315564
+4ba0153bf964a520995837e3,Diner,VeryLikelyOpen,430,"1483 Queen St E, Toronto ON M4L 1E2",Casa Di Giorgios,43.665121,-79.321347
+4b510060f964a520e93c27e3,Egyptian Restaurant,VeryLikelyOpen,874,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Starbucks,43.671682,-79.328462
+4b942922f964a520f16b34e3,Café,LikelyOpen,679,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",British Style Fish & Chips,43.66388,-79.326107
+601ea2a0f21ba75f3fb7632f,Pizzeria,VeryLikelyOpen,884,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Omnia Coffee Roasters,43.666623,-79.316861
+4ad9ebdcf964a520e61b21e3,Ice Cream Parlor,VeryLikelyOpen,564,"1698 Queen St W, Scarborough ON M6R 1B3",Chick-N-Joy,43.667418,-79.312824
+4bcb794f3740b71390996265,Bistro,LikelyOpen,749,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Queen Margherita Pizza,43.671324,-79.32719
+4aec7b4df964a520b0c721e3,Fish and Chips Shop,LikelyOpen,850,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Zane Patisserie,43.668614,-79.317268
+4e4e7aa06365e1419d021044,Indian Restaurant,VeryLikelyOpen,423,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",F'Amelia,43.67205,-79.322451
+4add3b20f964a520b16421e3,Bar,VeryLikelyOpen,643,"1471 Gerrard St E, Toronto ON M4L 2A1",House on Parliament,43.672346,-79.320804
+50e8b903e4b04fa56858ecfe,Burger Joint,VeryLikelyOpen,791,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Zakkushi,43.666763,-79.315564
+4b4626fef964a5204a1826e3,Diner,VeryLikelyOpen,838,"1483 Queen St E, Toronto ON M4L 1E2",Rooster Coffee House,43.665121,-79.321347
+4d2ba482068e8cfa15e7e44c,Egyptian Restaurant,VeryLikelyOpen,678,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Stout Irish Pub,43.671682,-79.328462
+5e0b969e063b9c000838dbc9,Café,VeryLikelyOpen,923,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Le Beau,43.66388,-79.326107
+4b17c9f5f964a5202fc823e3,Pizzeria,VeryLikelyOpen,803,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Mr Jerk,43.666623,-79.316861
+4c0aa2caffb8c9b68eec6b61,Ice Cream Parlor,Unsure,174,"1698 Queen St W, Scarborough ON M6R 1B3",Park Snacks,43.667418,-79.312824
+4bba156ccf2fc9b6831ca102,Bistro,VeryLikelyOpen,611,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",The Epicure Shop,43.671324,-79.32719
+4ae4a9baf964a520e69c21e3,Fish and Chips Shop,VeryLikelyOpen,894,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Chew Chew's Diner,43.668614,-79.317268
+4ff222e6582f33c0ee007ba7,Indian Restaurant,VeryLikelyOpen,48,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Handlebar,43.67205,-79.322451
+5b233c5595d986002c9e8788,Bar,VeryLikelyOpen,502,"1471 Gerrard St E, Toronto ON M4L 2A1",Drom Taberna,43.672346,-79.320804
+4edeae9d61af80fe89aa3f54,Burger Joint,VeryLikelyOpen,563,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Banh Mi Boys,43.666763,-79.315564
+5c9d0a7d25fb7b002cdc0ca6,Diner,VeryLikelyOpen,498,"1483 Queen St E, Toronto ON M4L 1E2",Raku,43.665121,-79.321347
+4d13b509e3b5224b14da9143,Egyptian Restaurant,VeryLikelyOpen,479,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Café Pamenar,43.671682,-79.328462
+4ad76dadf964a520530a21e3,Café,VeryLikelyOpen,415,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Dark Horse Espresso Bar,43.66388,-79.326107
+5061dbab498ee603149683e5,Pizzeria,VeryLikelyOpen,593,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Voodoo Child,43.666623,-79.316861
+52c5dd8d498e25dee9f19457,Ice Cream Parlor,VeryLikelyOpen,629,"1698 Queen St W, Scarborough ON M6R 1B3",Ramen Isshin,43.667418,-79.312824
+59ebd72f95a722043bcbc712,Bistro,VeryLikelyOpen,621,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Aloette,43.671324,-79.32719
+4ad4c05df964a5204cf620e3,Fish and Chips Shop,VeryLikelyOpen,645,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sneaky Dee's,43.668614,-79.317268
+564625e8498ed0ce5e3ba2f7,Indian Restaurant,LikelyOpen,18,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Cafe Neon,43.67205,-79.322451
+5cfd2dacbb8d36002cdff2a3,Bar,VeryLikelyOpen,114,"1471 Gerrard St E, Toronto ON M4L 2A1",Forno Cultura,43.672346,-79.320804
+53e7ff72498ec1fa4deab5d0,Burger Joint,VeryLikelyOpen,214,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Mamakas Taverna,43.666763,-79.315564
+537bd61f498e0dae73728800,Diner,VeryLikelyOpen,252,"1483 Queen St E, Toronto ON M4L 1E2",Bang Bang Ice Cream & Bakery,43.665121,-79.321347
+4b6cf195f964a5204c5f2ce3,Egyptian Restaurant,VeryLikelyOpen,104,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Frankie's Bar & Cafe,43.671682,-79.328462
+60eb6856be2741225b07217b,Café,VeryLikelyOpen,414,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Pizzeria Badiali,43.66388,-79.326107
+4ad87544f964a520841121e3,Pizzeria,VeryLikelyOpen,169,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Pho Tien Thanh,43.666623,-79.316861
+4af369d0f964a52060ed21e3,Ice Cream Parlor,VeryLikelyOpen,523,"1698 Queen St W, Scarborough ON M6R 1B3",Foxley,43.667418,-79.312824
+4ae86cb3f964a5203eaf21e3,Bistro,VeryLikelyOpen,324,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Rua Vang Golden Turtle Restaurant,43.671324,-79.32719
+4bf95e8f5efe2d7ffa126c34,Fish and Chips Shop,VeryLikelyOpen,433,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Drake Cafe,43.668614,-79.317268
+57cd9d20498e6ab8342980e2,Indian Restaurant,VeryLikelyOpen,179,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Arvo Coffee,43.67205,-79.322451
+4adb58f7f964a520412621e3,Bar,VeryLikelyOpen,190,"1471 Gerrard St E, Toronto ON M4L 2A1",Balzac's Coffee Roastery,43.672346,-79.320804
+54ea41ad498e9a11e9e13308,Burger Joint,VeryLikelyOpen,276,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Roselle Desserts,43.666763,-79.315564
+60e6218245886b2bf7595257,Diner,VeryLikelyOpen,184,"1483 Queen St E, Toronto ON M4L 1E2",Scooped by Demetres,43.665121,-79.321347
+53b8466a498e83df908c3f21,Egyptian Restaurant,VeryLikelyOpen,279,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Tandem Coffee,43.671682,-79.328462
+53a22c92498ec91fda7ce133,Café,VeryLikelyOpen,209,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cluny Bistro,43.66388,-79.326107
+51853a73498e4d97a8b20831,Pizzeria,LikelyOpen,437,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Rooster Coffee House,43.666623,-79.316861
+51ddecee498e1ffd34185d2f,Ice Cream Parlor,VeryLikelyOpen,132,"1698 Queen St W, Scarborough ON M6R 1B3",El Catrin Destileria,43.667418,-79.312824
+4af9fc95f964a520ca1522e3,Bistro,VeryLikelyOpen,176,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mill Street Brew Pub,43.671324,-79.32719
+4b156a02f964a5207fac23e3,Fish and Chips Shop,VeryLikelyOpen,99,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Brick Street Bakery,43.668614,-79.317268
+5615b6c4498e3c32c67ad78f,Indian Restaurant,VeryLikelyOpen,127,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Blaze Pizza,43.67205,-79.322451
+4ab2b0b9f964a520e56b20e3,Bar,VeryLikelyOpen,224,"1471 Gerrard St E, Toronto ON M4L 2A1",The Queen and Beaver Public House,43.672346,-79.320804
+51755dc7498ece19b7261641,Burger Joint,LikelyOpen,357,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Banh Mi Boys,43.666763,-79.315564
+4adc9148f964a520512d21e3,Diner,VeryLikelyOpen,96,"1483 Queen St E, Toronto ON M4L 1E2",Chipotle Mexican Grill,43.665121,-79.321347
+4d306dd82748b60c62b6dba0,Egyptian Restaurant,VeryLikelyOpen,186,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Trattoria Mercatto,43.671682,-79.328462
+4ad4c061f964a52095f720e3,Café,VeryLikelyOpen,167,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Salad King,43.66388,-79.326107
+5d782433f6e3190008b1a914,Pizzeria,VeryLikelyOpen,290,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gyubee Japanese Grill,43.666623,-79.316861
+537d4d6d498ec171ba22e7fe,Ice Cream Parlor,LikelyOpen,420,"1698 Queen St W, Scarborough ON M6R 1B3",Jimmy's Coffee,43.667418,-79.312824
+506db1a9e4b0a3f3b31412f0,Bistro,LikelyOpen,533,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Richmond Station,43.671324,-79.32719
+509e9ef6e4b0ab175389a6c5,Fish and Chips Shop,VeryLikelyOpen,315,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Hokkaido Ramen Santouka,43.668614,-79.317268
+4df15e3c1f6e818dadf7afc0,Indian Restaurant,VeryLikelyOpen,418,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Fresh on Bloor,43.67205,-79.322451
+4b58a308f964a520db6228e3,Bar,LikelyOpen,460,"1471 Gerrard St E, Toronto ON M4L 2A1",Cobs Bread,43.672346,-79.320804
+4c62c59ce1621b8dd0332453,Burger Joint,LikelyOpen,537,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Roti Cuisine of India,43.666763,-79.315564
+4ad4c05cf964a520cdf520e3,Diner,VeryLikelyOpen,736,"1483 Queen St E, Toronto ON M4L 1E2",Insomnia Restaurant and Lounge,43.665121,-79.321347
+54400bee498e61defb21f0a5,Egyptian Restaurant,VeryLikelyOpen,665,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Schmaltz Appetizing,43.671682,-79.328462
+5707bcb9498e709b544e20b2,Café,VeryLikelyOpen,875,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Her Father's Cider Bar + Kitchen,43.66388,-79.326107
+59f7bad335811b13a241e498,Pizzeria,VeryLikelyOpen,515,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gyubee,43.666623,-79.316861
+4c7be89283a7bfb7637d8ff8,Ice Cream Parlor,VeryLikelyOpen,887,"1698 Queen St W, Scarborough ON M6R 1B3",Snakes & Lattes,43.667418,-79.312824
+5a9ae543b6eedb376f9a13ed,Bistro,VeryLikelyOpen,889,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Rustle & Still Café,43.671324,-79.32719
+4fe51ae2e4b0bdc4f40dae87,Fish and Chips Shop,VeryLikelyOpen,471,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Famoso Italian Pizzeria - Annex,43.668614,-79.317268
+54400bee498e61defb21f0a5,Indian Restaurant,VeryLikelyOpen,462,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Schmaltz Appetizing,43.67205,-79.322451
+4c62c59ce1621b8dd0332453,Bar,LikelyOpen,671,"1471 Gerrard St E, Toronto ON M4L 2A1",Roti Cuisine of India,43.672346,-79.320804
+4ad4c05cf964a52018f620e3,Burger Joint,VeryLikelyOpen,652,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Dutch Dreams Icecream Parlor Toronto,43.666763,-79.315564
+59a1fae23af98819c17d2c8a,Diner,VeryLikelyOpen,360,"1483 Queen St E, Toronto ON M4L 1E2",Craque de Creme,43.665121,-79.321347
+4cbf015897bc721e6fe08267,Egyptian Restaurant,LikelyOpen,474,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Fanny Chadwick's,43.671682,-79.328462
+51928bb0498eeb6c53c0f63a,Café,VeryLikelyOpen,574,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Gordo Ex Cafe,43.66388,-79.326107
+571aca9a498e3e958ace849a,Pizzeria,VeryLikelyOpen,815,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",El Pocho Antojitos Bar,43.666623,-79.316861
+53553241498ec641e3a6b798,Ice Cream Parlor,VeryLikelyOpen,971,"1698 Queen St W, Scarborough ON M6R 1B3",Baker and Scone,43.667418,-79.312824
+5557fce2498e63ff8af4ce9f,Bistro,VeryLikelyOpen,584,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Booyah,43.671324,-79.32719
+59bc5ac94b78c5276f4bd18b,Fish and Chips Shop,VeryLikelyOpen,932,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Queen of Persia,43.668614,-79.317268
+54838585498e1787e915457d,Indian Restaurant,VeryLikelyOpen,17,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Loga's Corner,43.67205,-79.322451
+4b51ca67f964a520af5527e3,Bar,VeryLikelyOpen,69,"1471 Gerrard St E, Toronto ON M4L 2A1",Skyline Restaurant,43.672346,-79.320804
+56511c81498eec7fad08c330,Burger Joint,VeryLikelyOpen,225,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Shameful Tiki Room,43.666763,-79.315564
+61ab6cf89ab3f3549ea7fd97,Diner,LikelyOpen,454,"1483 Queen St E, Toronto ON M4L 1E2",The Originals Dining Lounge,43.665121,-79.321347
+4bf80b445efe2d7f61f96934,Egyptian Restaurant,VeryLikelyOpen,470,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Shangrila,43.671682,-79.328462
+52a3b32b11d2996c4565e91b,Café,VeryLikelyOpen,775,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Fix Coffee + Bikes,43.66388,-79.326107
+5adcfaff9b047316b674fc2b,Pizzeria,VeryLikelyOpen,582,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Craig's Cookies,43.666623,-79.316861
+5374b6f4498e371df1066313,Ice Cream Parlor,VeryLikelyOpen,835,"1698 Queen St W, Scarborough ON M6R 1B3",Louie - Craft Coffee,43.667418,-79.312824
+4ae4be84f964a520af9d21e3,Bistro,LikelyOpen,832,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Easy Restaurant,43.671324,-79.32719
+525714e411d224022aaeb01e,Fish and Chips Shop,VeryLikelyOpen,881,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",I Deal Coffee,43.668614,-79.317268
+5b55f1c1b9a5a8002c6b9b86,Indian Restaurant,VeryLikelyOpen,222,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Brodflour,43.67205,-79.322451
+5374b6f4498e371df1066313,Bar,VeryLikelyOpen,162,"1471 Gerrard St E, Toronto ON M4L 2A1",Louie - Craft Coffee,43.672346,-79.320804
+4b7355a4f964a52044a92de3,Burger Joint,VeryLikelyOpen,289,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Mildred's Temple Kitchen,43.666763,-79.315564
+564625e8498ed0ce5e3ba2f7,Diner,LikelyOpen,609,"1483 Queen St E, Toronto ON M4L 1E2",Cafe Neon,43.665121,-79.321347
+4bf95e8f5efe2d7ffa126c34,Egyptian Restaurant,VeryLikelyOpen,413,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Drake Cafe,43.671682,-79.328462
+5cfd2dacbb8d36002cdff2a3,Café,VeryLikelyOpen,554,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Forno Cultura,43.66388,-79.326107
+53d80fbd498ef87cc8688890,Pizzeria,VeryLikelyOpen,374,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Local Liberty Village,43.666623,-79.316861
+52a3b32b11d2996c4565e91b,Ice Cream Parlor,VeryLikelyOpen,717,"1698 Queen St W, Scarborough ON M6R 1B3",Fix Coffee + Bikes,43.667418,-79.312824
+53e7ff72498ec1fa4deab5d0,Bistro,VeryLikelyOpen,785,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mamakas Taverna,43.671324,-79.32719
+60eb6856be2741225b07217b,Fish and Chips Shop,VeryLikelyOpen,759,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pizzeria Badiali,43.668614,-79.317268
+540c8301498e51456f71ae7e,Indian Restaurant,VeryLikelyOpen,435,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Contra Cafe,43.67205,-79.322451
+4add0122f964a5205d6321e3,Bar,VeryLikelyOpen,766,"1471 Gerrard St E, Toronto ON M4L 2A1",Hodo Kwaja,43.672346,-79.320804
+4c7be89283a7bfb7637d8ff8,Burger Joint,VeryLikelyOpen,846,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Snakes & Lattes,43.666763,-79.315564
+5b3d62c9270ee7002c7de12e,Diner,VeryLikelyOpen,872,"1483 Queen St E, Toronto ON M4L 1E2",Paradise Grapevine,43.665121,-79.321347
+5a9ae543b6eedb376f9a13ed,Egyptian Restaurant,VeryLikelyOpen,853,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Rustle & Still Café,43.671682,-79.328462
+54713d37498ec7371141032e,Café,VeryLikelyOpen,945,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Civil Liberties,43.66388,-79.326107
+4ada53e5f964a520592121e3,Pizzeria,VeryLikelyOpen,747,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Buk Chang Dong Soon Tofu,43.666623,-79.316861
+4ad4c05cf964a520cdf520e3,Ice Cream Parlor,VeryLikelyOpen,957,"1698 Queen St W, Scarborough ON M6R 1B3",Insomnia Restaurant and Lounge,43.667418,-79.312824
+54400bee498e61defb21f0a5,Bistro,VeryLikelyOpen,844,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Schmaltz Appetizing,43.671324,-79.32719
+4f737b84e4b060af1b23c5b7,Fish and Chips Shop,VeryLikelyOpen,627,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Actinolite Restaurant,43.668614,-79.317268
+54400bee498e61defb21f0a5,Indian Restaurant,VeryLikelyOpen,461,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Schmaltz Appetizing,43.67205,-79.322451
+571aca9a498e3e958ace849a,Bar,VeryLikelyOpen,311,"1471 Gerrard St E, Toronto ON M4L 2A1",El Pocho Antojitos Bar,43.672346,-79.320804
+4c7be89283a7bfb7637d8ff8,Burger Joint,VeryLikelyOpen,778,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Snakes & Lattes,43.666763,-79.315564
+4c62c59ce1621b8dd0332453,Diner,LikelyOpen,746,"1483 Queen St E, Toronto ON M4L 1E2",Roti Cuisine of India,43.665121,-79.321347
+5a9ae543b6eedb376f9a13ed,Egyptian Restaurant,VeryLikelyOpen,785,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Rustle & Still Café,43.671682,-79.328462
+540c8301498e51456f71ae7e,Café,VeryLikelyOpen,821,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Contra Cafe,43.66388,-79.326107
+4add0122f964a5205d6321e3,Pizzeria,VeryLikelyOpen,797,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Hodo Kwaja,43.666623,-79.316861
+4ad4c05cf964a520cdf520e3,Ice Cream Parlor,VeryLikelyOpen,816,"1698 Queen St W, Scarborough ON M6R 1B3",Insomnia Restaurant and Lounge,43.667418,-79.312824
+4ada53e5f964a520592121e3,Bistro,VeryLikelyOpen,840,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Buk Chang Dong Soon Tofu,43.671324,-79.32719
+4cbf015897bc721e6fe08267,Fish and Chips Shop,LikelyOpen,428,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Fanny Chadwick's,43.668614,-79.317268
+52418b0b7e48222eea81d2d2,Indian Restaurant,VeryLikelyOpen,363,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Pukka,43.67205,-79.322451
+53553241498ec641e3a6b798,Bar,VeryLikelyOpen,199,"1471 Gerrard St E, Toronto ON M4L 2A1",Baker and Scone,43.672346,-79.320804
+5748bdbf498e3b6d10222371,Burger Joint,VeryLikelyOpen,284,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Bar Ape,43.666763,-79.315564
+59bc5ac94b78c5276f4bd18b,Diner,VeryLikelyOpen,197,"1483 Queen St E, Toronto ON M4L 1E2",Queen of Persia,43.665121,-79.321347
+4aeb7abbf964a52080c221e3,Egyptian Restaurant,VeryLikelyOpen,310,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Ferro Bar & Cafe,43.671682,-79.328462
+4ad4c05cf964a52018f620e3,Café,VeryLikelyOpen,547,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Dutch Dreams Icecream Parlor Toronto,43.66388,-79.326107
+58c442ef4ca49b2c8e7df995,Pizzeria,VeryLikelyOpen,980,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Itacate,43.666623,-79.316861
+5013f8d5e4b02c1e0c0af2bf,Ice Cream Parlor,VeryLikelyOpen,1261,"1698 Queen St W, Scarborough ON M6R 1B3",Emma's Country Kitchen,43.667418,-79.312824
+581cc52b8d169071e52cde38,Bistro,VeryLikelyOpen,410,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Nodo Hillcrest,43.671324,-79.32719
+5557fce2498e63ff8af4ce9f,Fish and Chips Shop,VeryLikelyOpen,594,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Booyah,43.668614,-79.317268
+5374b6f4498e371df1066313,Indian Restaurant,VeryLikelyOpen,32,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Louie - Craft Coffee,43.67205,-79.322451
+5b55f1c1b9a5a8002c6b9b86,Bar,VeryLikelyOpen,293,"1471 Gerrard St E, Toronto ON M4L 2A1",Brodflour,43.672346,-79.320804
+4bf95e8f5efe2d7ffa126c34,Burger Joint,VeryLikelyOpen,403,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Drake Cafe,43.666763,-79.315564
+52a3b32b11d2996c4565e91b,Diner,VeryLikelyOpen,657,"1483 Queen St E, Toronto ON M4L 1E2",Fix Coffee + Bikes,43.665121,-79.321347
+4b7355a4f964a52044a92de3,Egyptian Restaurant,VeryLikelyOpen,419,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Mildred's Temple Kitchen,43.671682,-79.328462
+564625e8498ed0ce5e3ba2f7,Café,LikelyOpen,688,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Cafe Neon,43.66388,-79.326107
+5cfd2dacbb8d36002cdff2a3,Pizzeria,VeryLikelyOpen,617,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Forno Cultura,43.666623,-79.316861
+60eb6856be2741225b07217b,Ice Cream Parlor,VeryLikelyOpen,771,"1698 Queen St W, Scarborough ON M6R 1B3",Pizzeria Badiali,43.667418,-79.312824
+53e7ff72498ec1fa4deab5d0,Bistro,VeryLikelyOpen,848,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mamakas Taverna,43.671324,-79.32719
+4ae094a7f964a5208f8021e3,Fish and Chips Shop,LikelyOpen,201,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",SCHOOL Restaurant,43.668614,-79.317268
+4c62c59ce1621b8dd0332453,Indian Restaurant,LikelyOpen,165,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Roti Cuisine of India,43.67205,-79.322451
+54400bee498e61defb21f0a5,Bar,VeryLikelyOpen,442,"1471 Gerrard St E, Toronto ON M4L 2A1",Schmaltz Appetizing,43.672346,-79.320804
+4dd5c8762271c5d36d13e5c1,Burger Joint,VeryLikelyOpen,459,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Playa Cabana,43.666763,-79.315564
+5b6ef35c3af988002c6c1cfa,Diner,VeryLikelyOpen,132,"1483 Queen St E, Toronto ON M4L 1E2",Krispy Kreme,43.665121,-79.321347
+4ad4c061f964a520a5f720e3,Egyptian Restaurant,VeryLikelyOpen,857,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Scaramouche Restaurant Pasta Bar & Grill,43.671682,-79.328462
+5c5f10e4bf7dde002cef8172,Café,VeryLikelyOpen,87,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Fet Zun,43.66388,-79.326107
+4ade974ef964a520717621e3,Pizzeria,VeryLikelyOpen,254,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Pour House Irish Pub,43.666623,-79.316861
+618dc35b3dd8160ca944ac3b,Ice Cream Parlor,VeryLikelyOpen,771,"1698 Queen St W, Scarborough ON M6R 1B3",MIMI Chinese,43.667418,-79.312824
+4cbf015897bc721e6fe08267,Bistro,LikelyOpen,472,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Fanny Chadwick's,43.671324,-79.32719
+4ad4c05ff964a52004f720e3,Fish and Chips Shop,VeryLikelyOpen,902,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Sotto Sotto Restaurant,43.668614,-79.317268
+4c62c59ce1621b8dd0332453,Indian Restaurant,LikelyOpen,193,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Roti Cuisine of India,43.67205,-79.322451
+54400bee498e61defb21f0a5,Bar,VeryLikelyOpen,222,"1471 Gerrard St E, Toronto ON M4L 2A1",Schmaltz Appetizing,43.672346,-79.320804
+4cbf015897bc721e6fe08267,Burger Joint,LikelyOpen,258,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Fanny Chadwick's,43.666763,-79.315564
+4dd5c8762271c5d36d13e5c1,Diner,VeryLikelyOpen,725,"1483 Queen St E, Toronto ON M4L 1E2",Playa Cabana,43.665121,-79.321347
+5b6ef35c3af988002c6c1cfa,Egyptian Restaurant,VeryLikelyOpen,224,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Krispy Kreme,43.671682,-79.328462
+571aca9a498e3e958ace849a,Café,VeryLikelyOpen,709,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",El Pocho Antojitos Bar,43.66388,-79.326107
+51928bb0498eeb6c53c0f63a,Pizzeria,VeryLikelyOpen,509,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gordo Ex Cafe,43.666623,-79.316861
+5c5f10e4bf7dde002cef8172,Ice Cream Parlor,VeryLikelyOpen,319,"1698 Queen St W, Scarborough ON M6R 1B3",Fet Zun,43.667418,-79.312824
+618dc35b3dd8160ca944ac3b,Bistro,VeryLikelyOpen,1030,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",MIMI Chinese,43.671324,-79.32719
+4ade974ef964a520717621e3,Fish and Chips Shop,VeryLikelyOpen,519,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pour House Irish Pub,43.668614,-79.317268
+54400bee498e61defb21f0a5,Indian Restaurant,VeryLikelyOpen,241,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Schmaltz Appetizing,43.67205,-79.322451
+4c62c59ce1621b8dd0332453,Bar,LikelyOpen,520,"1471 Gerrard St E, Toronto ON M4L 2A1",Roti Cuisine of India,43.672346,-79.320804
+4cbf015897bc721e6fe08267,Burger Joint,LikelyOpen,237,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Fanny Chadwick's,43.666763,-79.315564
+571aca9a498e3e958ace849a,Diner,VeryLikelyOpen,549,"1483 Queen St E, Toronto ON M4L 1E2",El Pocho Antojitos Bar,43.665121,-79.321347
+4ad4c05cf964a52018f620e3,Egyptian Restaurant,VeryLikelyOpen,922,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Dutch Dreams Icecream Parlor Toronto,43.671682,-79.328462
+4ad4c05ff964a52041f720e3,Café,VeryLikelyOpen,189,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Annapurna Vegetarian Restaurant,43.66388,-79.326107
+5b6ef35c3af988002c6c1cfa,Pizzeria,VeryLikelyOpen,562,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Krispy Kreme,43.666623,-79.316861
+4ad4c05ff964a5201ef720e3,Ice Cream Parlor,LikelyOpen,139,"1698 Queen St W, Scarborough ON M6R 1B3",Vesta Lunch,43.667418,-79.312824
+5557fce2498e63ff8af4ce9f,Bistro,VeryLikelyOpen,853,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Booyah,43.671324,-79.32719
+5c5f10e4bf7dde002cef8172,Fish and Chips Shop,VeryLikelyOpen,677,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Fet Zun,43.668614,-79.317268
+4c62c59ce1621b8dd0332453,Indian Restaurant,LikelyOpen,345,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Roti Cuisine of India,43.67205,-79.322451
+54400bee498e61defb21f0a5,Bar,VeryLikelyOpen,386,"1471 Gerrard St E, Toronto ON M4L 2A1",Schmaltz Appetizing,43.672346,-79.320804
+4df15e3c1f6e818dadf7afc0,Burger Joint,VeryLikelyOpen,655,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Fresh on Bloor,43.666763,-79.315564
+4b58a308f964a520db6228e3,Diner,LikelyOpen,615,"1483 Queen St E, Toronto ON M4L 1E2",Cobs Bread,43.665121,-79.321347
+4ad4c05cf964a520cdf520e3,Egyptian Restaurant,VeryLikelyOpen,735,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Insomnia Restaurant and Lounge,43.671682,-79.328462
+4c7be89283a7bfb7637d8ff8,Café,VeryLikelyOpen,842,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Snakes & Lattes,43.66388,-79.326107
+5a9ae543b6eedb376f9a13ed,Pizzeria,VeryLikelyOpen,846,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Rustle & Still Café,43.666623,-79.316861
+571aca9a498e3e958ace849a,Ice Cream Parlor,VeryLikelyOpen,462,"1698 Queen St W, Scarborough ON M6R 1B3",El Pocho Antojitos Bar,43.667418,-79.312824
+4dd5c8762271c5d36d13e5c1,Bistro,VeryLikelyOpen,762,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Playa Cabana,43.671324,-79.32719
+57817461498e4ac40d24a6d6,Fish and Chips Shop,VeryLikelyOpen,658,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Crafty Coyote,43.668614,-79.317268
+4aec8fe3f964a520bcc821e3,Indian Restaurant,VeryLikelyOpen,216,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Dough Bakeshop,43.67205,-79.322451
+4b8089cbf964a520127b30e3,Bar,LikelyOpen,245,"1471 Gerrard St E, Toronto ON M4L 2A1",Tapas at Embrujo,43.672346,-79.320804
+4af4e0d0f964a5202ff721e3,Burger Joint,VeryLikelyOpen,371,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",7 Numbers,43.666763,-79.315564
+5bca3585838e59002c9b1919,Diner,VeryLikelyOpen,396,"1483 Queen St E, Toronto ON M4L 1E2",Cinnaholic,43.665121,-79.321347
+5a6bd7ec6661160f9355c448,Egyptian Restaurant,VeryLikelyOpen,240,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Sidebar,43.671682,-79.328462
+57799e91498e189817c91ead,Café,VeryLikelyOpen,483,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",La Diperie,43.66388,-79.326107
+4ada126ff964a520041e21e3,Pizzeria,VeryLikelyOpen,221,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Allen's,43.666623,-79.316861
+4ae24088f964a5206b8c21e3,Ice Cream Parlor,VeryLikelyOpen,423,"1698 Queen St W, Scarborough ON M6R 1B3",Auld Spot Pub,43.667418,-79.312824
+4afdfadff964a520a52c22e3,Bistro,VeryLikelyOpen,646,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Mezes,43.671324,-79.32719
+4dc72844d22dafda2fcf75e6,Fish and Chips Shop,LikelyOpen,568,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Dolce Gelato,43.668614,-79.317268
+4bb75e0f6edc76b03212321c,Indian Restaurant,VeryLikelyOpen,831,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Serano Bakery,43.67205,-79.322451
+4e3dbb5e45dd68e3273e03b7,Bar,Unsure,947,"1471 Gerrard St E, Toronto ON M4L 2A1",Cafe Fiorentina,43.672346,-79.320804
+4af4e0d0f964a5202ff721e3,Burger Joint,VeryLikelyOpen,893,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",7 Numbers,43.666763,-79.315564
+57799e91498e189817c91ead,Diner,VeryLikelyOpen,868,"1483 Queen St E, Toronto ON M4L 1E2",La Diperie,43.665121,-79.321347
+4afdfadff964a520a52c22e3,Egyptian Restaurant,VeryLikelyOpen,923,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Mezes,43.671682,-79.328462
+4aec8fe3f964a520bcc821e3,Café,VeryLikelyOpen,913,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Dough Bakeshop,43.66388,-79.326107
+5bca3585838e59002c9b1919,Pizzeria,VeryLikelyOpen,898,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Cinnaholic,43.666623,-79.316861
+4b8089cbf964a520127b30e3,Ice Cream Parlor,LikelyOpen,980,"1698 Queen St W, Scarborough ON M6R 1B3",Tapas at Embrujo,43.667418,-79.312824
+4ae24088f964a5206b8c21e3,Bistro,VeryLikelyOpen,882,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Auld Spot Pub,43.671324,-79.32719
+4e38955318a8d2fcc62353ca,Fish and Chips Shop,LikelyOpen,687,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Cafe Belong,43.668614,-79.317268
+4bb75e0f6edc76b03212321c,Indian Restaurant,VeryLikelyOpen,99,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Serano Bakery,43.67205,-79.322451
+502826ffe4b039d48c722f78,Bar,VeryLikelyOpen,597,"1471 Gerrard St E, Toronto ON M4L 2A1",Athens Restaurant,43.672346,-79.320804
+4afdfadff964a520a52c22e3,Burger Joint,VeryLikelyOpen,711,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Mezes,43.666763,-79.315564
+57799e91498e189817c91ead,Diner,VeryLikelyOpen,811,"1483 Queen St E, Toronto ON M4L 1E2",La Diperie,43.665121,-79.321347
+4aeb26cff964a52009bf21e3,Egyptian Restaurant,VeryLikelyOpen,833,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",The Only Cafe,43.671682,-79.328462
+4af4e0d0f964a5202ff721e3,Café,VeryLikelyOpen,944,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",7 Numbers,43.66388,-79.326107
+5bca3585838e59002c9b1919,Pizzeria,VeryLikelyOpen,928,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Cinnaholic,43.666623,-79.316861
+4b64ce4af964a52084d12ae3,Ice Cream Parlor,VeryLikelyOpen,657,"1698 Queen St W, Scarborough ON M6R 1B3",Christina's on the Danforth,43.667418,-79.312824
+4aeb268bf964a52006bf21e3,Bistro,VeryLikelyOpen,746,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Messini Authentic Gyros,43.671324,-79.32719
+4ae24088f964a5206b8c21e3,Fish and Chips Shop,VeryLikelyOpen,882,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Auld Spot Pub,43.668614,-79.317268
+4be6ef2dd4f7c9b6a4372720,Indian Restaurant,VeryLikelyOpen,155,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Ritz Restaurant,43.67205,-79.322451
+4bc75d2314d79521383d67e9,Bar,VeryLikelyOpen,450,"1471 Gerrard St E, Toronto ON M4L 2A1",Donlands Restaurant,43.672346,-79.320804
+4bb75e0f6edc76b03212321c,Burger Joint,VeryLikelyOpen,923,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Serano Bakery,43.666763,-79.315564
+4ada00f4f964a520181d21e3,Diner,LikelyOpen,414,"1483 Queen St E, Toronto ON M4L 1E2",Select Bakery,43.665121,-79.321347
+4bc9b8950687ef3bbc53dacc,Egyptian Restaurant,VeryLikelyOpen,619,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Danish Pastry Shop,43.671682,-79.328462
+4f405fb2e4b0d395c745494e,Café,LikelyOpen,790,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",The Greek Grill,43.66388,-79.326107
+544bee8b498ece3f8ce209fe,Pizzeria,VeryLikelyOpen,806,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Goat Coffee Co,43.666623,-79.316861
+53d2e5e4498e4febaf28f2b8,Ice Cream Parlor,VeryLikelyOpen,881,"1698 Queen St W, Scarborough ON M6R 1B3",Tzatziki,43.667418,-79.312824
+5dd8176307121000075ef966,Bistro,VeryLikelyOpen,535,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Tim Hortons,43.671324,-79.32719
+4bd22db89854d13a7129fb4d,Fish and Chips Shop,LikelyOpen,631,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Subway,43.668614,-79.317268
+4fdc0e98e4b05197cd14912b,Indian Restaurant,VeryLikelyOpen,778,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",The Abbot on Eglinton,43.67205,-79.322451
+4b896ec4f964a520bd3532e3,Bar,VeryLikelyOpen,716,"1471 Gerrard St E, Toronto ON M4L 2A1",Hotel Gelato,43.672346,-79.320804
+4bdc79352a3a0f47a800b3b6,Burger Joint,LikelyOpen,764,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",The Mad Bean,43.666763,-79.315564
+56336f69498e02e4e842f5d4,Diner,LikelyOpen,898,"1483 Queen St E, Toronto ON M4L 1E2",Thobors Entreprises Inc,43.665121,-79.321347
+4b43d345f964a5202deb25e3,Egyptian Restaurant,VeryLikelyOpen,663,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Jerusalem Restaurant,43.671682,-79.328462
+4bf558e1e5eba593a8a32090,Café,VeryLikelyOpen,528,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",St Urbain Bagel Bakery,43.66388,-79.326107
+4c6fec0eb3ce224b581b72c6,Pizzeria,VeryLikelyOpen,963,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Phipps Bakery Cafe,43.666623,-79.316861
+4b2c376ff964a520fbc324e3,Ice Cream Parlor,LikelyOpen,760,"1698 Queen St W, Scarborough ON M6R 1B3",Seven Numbers Restaurant,43.667418,-79.312824
+4b117b8bf964a520817d23e3,Bistro,LikelyOpen,804,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Ferraro Restaurant,43.671324,-79.32719
+4bb7f85f3db7b71337dc209a,Fish and Chips Shop,VeryLikelyOpen,787,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Il Mulino,43.668614,-79.317268
+55cbe079498e206cdf9f4c97,Indian Restaurant,VeryLikelyOpen,475,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Descendant Detroit Style Pizza,43.67205,-79.322451
+53af0086498eb15122135e6a,Bar,VeryLikelyOpen,539,"1471 Gerrard St E, Toronto ON M4L 2A1",Completo,43.672346,-79.320804
+4cd7538f886cb60c8cc08e89,Burger Joint,VeryLikelyOpen,563,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Bobbette & Belle,43.666763,-79.315564
+4ec03c1329c25ce5a22fca40,Diner,VeryLikelyOpen,595,"1483 Queen St E, Toronto ON M4L 1E2",Ascari Enoteca,43.665121,-79.321347
+4ada456ff964a520c22021e3,Egyptian Restaurant,VeryLikelyOpen,546,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Hanoi 3 Seasons,43.671682,-79.328462
+4ad78ecaf964a520220c21e3,Café,LikelyOpen,792,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Te Aro,43.66388,-79.326107
+4ad4c060f964a5207bf720e3,Pizzeria,VeryLikelyOpen,473,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Gio Rana's Really Really Nice Restaurant,43.666623,-79.316861
+4ada03e4f964a520421d21e3,Ice Cream Parlor,LikelyOpen,518,"1698 Queen St W, Scarborough ON M6R 1B3",Tango Palace Coffee Co,43.667418,-79.312824
+4bc259ea4cdfc9b6bf099621,Bistro,VeryLikelyOpen,606,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Kristapsons Inc,43.671324,-79.32719
+4afef85ff964a5204a3222e3,Fish and Chips Shop,VeryLikelyOpen,962,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Reliable Halibut & Chips,43.668614,-79.317268
+51853a73498e4d97a8b20831,Indian Restaurant,LikelyOpen,57,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Rooster Coffee House,43.67205,-79.322451
+54ea41ad498e9a11e9e13308,Bar,VeryLikelyOpen,289,"1471 Gerrard St E, Toronto ON M4L 2A1",Roselle Desserts,43.672346,-79.320804
+57cd9d20498e6ab8342980e2,Burger Joint,VeryLikelyOpen,350,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Arvo Coffee,43.666763,-79.315564
+53b8466a498e83df908c3f21,Diner,VeryLikelyOpen,310,"1483 Queen St E, Toronto ON M4L 1E2",Tandem Coffee,43.665121,-79.321347
+55be4bd4498e08d9ccc061e4,Egyptian Restaurant,VeryLikelyOpen,374,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Neo Coffee Bar,43.671682,-79.328462
+4adb58f7f964a520412621e3,Café,VeryLikelyOpen,517,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Balzac's Coffee Roastery,43.66388,-79.326107
+4fff1f96e4b042ae8acddca5,Pizzeria,VeryLikelyOpen,631,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Fahrenheit Coffee,43.666623,-79.316861
+4ae5f583f964a52084a321e3,Ice Cream Parlor,VeryLikelyOpen,541,"1698 Queen St W, Scarborough ON M6R 1B3",The George Street Diner,43.667418,-79.312824
+60e6218245886b2bf7595257,Bistro,VeryLikelyOpen,477,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Scooped by Demetres,43.671324,-79.32719
+4af61930f964a520260122e3,Fish and Chips Shop,VeryLikelyOpen,462,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Bellissimo Pizzaria & Ristorante,43.668614,-79.317268
+5f710453c2dbe370d739275e,Indian Restaurant,VeryLikelyOpen,402,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Dolce Bakery,43.67205,-79.322451
+52a3b32b11d2996c4565e91b,Indian Restaurant,VeryLikelyOpen,477,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Fix Coffee + Bikes,43.67205,-79.322451
+56418c69498ec00425302f6a,Bar,LikelyOpen,570,"1471 Gerrard St E, Toronto ON M4L 2A1",Imanishi Japanese Kitchen,43.672346,-79.320804
+51572dc9e4b0b5f7ce9d0e13,Burger Joint,VeryLikelyOpen,555,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Takht-e Tavoos,43.666763,-79.315564
+5c4d5074a2c00b002c7df48a,Diner,VeryLikelyOpen,477,"1483 Queen St E, Toronto ON M4L 1E2",Project Gigglewater,43.665121,-79.321347
+4c0003d7f61ea593c529eb13,Egyptian Restaurant,LikelyOpen,538,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Linh Restaurant,43.671682,-79.328462
+4ada24e2f964a5200d1f21e3,Café,Unsure,616,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Arabesque Middle Eastern Foods,43.66388,-79.326107
+60eb6856be2741225b07217b,Pizzeria,VeryLikelyOpen,770,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Pizzeria Badiali,43.666623,-79.316861
+4c0699288b4520a11da58597,Ice Cream Parlor,VeryLikelyOpen,626,"1698 Queen St W, Scarborough ON M6R 1B3",Enoteca Sociale,43.667418,-79.312824
+568efc0f498e8eee920ff488,Bistro,VeryLikelyOpen,360,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Swan Dive,43.671324,-79.32719
+582dbcfb04ab1a5d8145a6cf,Fish and Chips Shop,Unsure,317,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Safehouse Coffee,43.668614,-79.317268
+4edeae9d61af80fe89aa3f54,Indian Restaurant,VeryLikelyOpen,283,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Banh Mi Boys,43.67205,-79.322451
+59ebd72f95a722043bcbc712,Bar,VeryLikelyOpen,246,"1471 Gerrard St E, Toronto ON M4L 2A1",Aloette,43.672346,-79.320804
+529612de11d2ab526191ccc9,Burger Joint,VeryLikelyOpen,434,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Pai,43.666763,-79.315564
+59f784dd28122f14f9d5d63d,Diner,VeryLikelyOpen,403,"1483 Queen St E, Toronto ON M4L 1E2",HotBlack Coffee,43.665121,-79.321347
+4df796f1aeb7da11e1a974d4,Egyptian Restaurant,VeryLikelyOpen,494,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",SOMA chocolatemaker,43.671682,-79.328462
+509bb871e4b09c7ac93f6642,Café,VeryLikelyOpen,438,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",JaBistro,43.66388,-79.326107
+4ad76dadf964a520530a21e3,Pizzeria,VeryLikelyOpen,304,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Dark Horse Espresso Bar,43.666623,-79.316861
+4fcc0dd177167574f0de38d5,Ice Cream Parlor,VeryLikelyOpen,431,"1698 Queen St W, Scarborough ON M6R 1B3",Bar Hop,43.667418,-79.312824
+4af0c5c1f964a5200fdf21e3,Bistro,VeryLikelyOpen,558,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Rodney's Oyster House,43.671324,-79.32719
+4d892556401a224b9eb38618,Fish and Chips Shop,LikelyOpen,309,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Town Crier Pub,43.668614,-79.317268
+5a2a9708ccad6b57983d95e3,Indian Restaurant,VeryLikelyOpen,206,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",Balzac's Coffee Roasters,43.67205,-79.322451
+4b5c7ad5f964a520df3129e3,Bar,VeryLikelyOpen,551,"1471 Gerrard St E, Toronto ON M4L 2A1",Tre Mari Bakery,43.672346,-79.320804
+572e0547498ed619e59df508,Burger Joint,VeryLikelyOpen,673,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Hale Coffee,43.666763,-79.315564
+5753753b498eeb535c53aed5,Diner,VeryLikelyOpen,796,"1483 Queen St E, Toronto ON M4L 1E2",The Greater Good Bar,43.665121,-79.321347
+4b81a826f964a520c9b530e3,Egyptian Restaurant,VeryLikelyOpen,674,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Rio 40 Restaurant,43.671682,-79.328462
+55ad1c45498ee54a96be5ba6,Café,VeryLikelyOpen,882,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Mattachioni,43.66388,-79.326107
+55f7090e498ea00cbdb2db1c,Pizzeria,VeryLikelyOpen,907,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",TuckShop Kitchen,43.666623,-79.316861
+5a5659ab17556229a036b74a,Ice Cream Parlor,VeryLikelyOpen,835,"1698 Queen St W, Scarborough ON M6R 1B3",Parallel,43.667418,-79.312824
+4fef6339e4b0caa9ac6d011e,Bistro,VeryLikelyOpen,766,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",King's Tacos,43.671324,-79.32719
+4dd5dc2445ddced820612749,Fish and Chips Shop,VeryLikelyOpen,807,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Pizza e Pazzi,43.668614,-79.317268
+5c08474447f876002c736b68,Indian Restaurant,VeryLikelyOpen,119,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",WVRST - Union Station,43.67205,-79.322451
+5a4fdf56772fbc5e9fa73c7f,Bar,VeryLikelyOpen,347,"1471 Gerrard St E, Toronto ON M4L 2A1",Chotto Matte,43.672346,-79.320804
+4fccaa8fe4b05a98df3d9417,Burger Joint,LikelyOpen,312,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Sam James Coffee Bar,43.666763,-79.315564
+5b6c842bc36588002c80a934,Diner,VeryLikelyOpen,436,"1483 Queen St E, Toronto ON M4L 1E2",Cafe Landwer,43.665121,-79.321347
+5462ac56498e128ccafe8fea,Egyptian Restaurant,VeryLikelyOpen,385,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Pizzeria Libretto,43.671682,-79.328462
+529612de11d2ab526191ccc9,Café,VeryLikelyOpen,549,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Pai,43.66388,-79.326107
+50322b6ae4b09116a296568c,Pizzeria,VeryLikelyOpen,486,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Soho House,43.666623,-79.316861
+4ad4c05df964a5203cf620e3,Ice Cream Parlor,VeryLikelyOpen,98,"1698 Queen St W, Scarborough ON M6R 1B3",Library Bar,43.667418,-79.312824
+581cad6a7c74e15859a6f890,Bistro,VeryLikelyOpen,215,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Scaddabush Italian Kitchen & Bar,43.671324,-79.32719
+5a8f505eb6eedb5c284a78ad,Fish and Chips Shop,VeryLikelyOpen,350,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Walrus Pub & Beer Hall,43.668614,-79.317268
+4df796f1aeb7da11e1a974d4,Indian Restaurant,VeryLikelyOpen,31,"1460 Gerrard St E (Coxwell Ave), Toronto ON M4L 2A3",SOMA chocolatemaker,43.67205,-79.322451
+4af0c5c1f964a5200fdf21e3,Bar,VeryLikelyOpen,48,"1471 Gerrard St E, Toronto ON M4L 2A1",Rodney's Oyster House,43.672346,-79.320804
+4ae338e1f964a520e39121e3,Burger Joint,VeryLikelyOpen,174,"1636 Queen St E (btwn Coxwell Ave. & Kingston Rd.), Toronto ON M4L 1G3",Le Select Bistro,43.666763,-79.315564
+544fc36c498ea63958331891,Diner,VeryLikelyOpen,224,"1483 Queen St E, Toronto ON M4L 1E2",Wilbur Mexicana,43.665121,-79.321347
+4fcc0dd177167574f0de38d5,Egyptian Restaurant,VeryLikelyOpen,205,"226 Greenwood Ave (Sandford Avenue), Toronto ON M4L 2R2",Bar Hop,43.671682,-79.328462
+584054342980db526bddd716,Café,VeryLikelyOpen,90,"1347 Queen St E (Knox Aveneue), Toronto ON M4L 1C6",Baro,43.66388,-79.326107
+4edeae9d61af80fe89aa3f54,Pizzeria,VeryLikelyOpen,387,"6 Coxwell Ave (Queen), Toronto ON M4L 3A7",Banh Mi Boys,43.666623,-79.316861
+4b2274c1f964a5200f4724e3,Ice Cream Parlor,VeryLikelyOpen,340,"1698 Queen St W, Scarborough ON M6R 1B3",Jimmy's Coffee,43.667418,-79.312824
+59ebd72f95a722043bcbc712,Bistro,VeryLikelyOpen,352,"1300 Gerrard St E (Greenwood ave), Toronto ON M4L 1Y7",Aloette,43.671324,-79.32719
+5b233c5595d986002c9e8788,Fish and Chips Shop,VeryLikelyOpen,435,"73 Coxwell Ave (Dundas St & Coxwell St), Toronto ON M4L 3B1",Drom Taberna,43.668614,-79.317268
